@@ -46762,6 +46762,12 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/aomiburo.htm",
         "moves": [
             {
+                "move_name": "カニばさみ",
+                "url": "https://hissatuwaza.kill.jp/setume/aomiburo.htm#aomiburo8",
+                "user": "服部武雄",
+                "description": "第97話初登場. 二刀を駆使して挟み込むような斬撃を繰り出す秘技。"
+            },
+            {
                 "move_name": "回雪(かいせつ)",
                 "url": "https://hissatuwaza.kill.jp/setume/aomiburo.htm#aomiburo4",
                 "user": "宮部鼎蔵",

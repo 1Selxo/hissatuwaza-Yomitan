@@ -11242,10 +11242,22 @@
                 "description": "第66話初登場。\n暗黒の領域と混沌の力を加えた禍々しい生物のような\n檻で対象を閉じ込める。\n中に入った相手の体と精神を30分で喰らい尽くすという。"
             },
             {
+                "move_name": "凍結墓地(フローズングレイブ)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi136",
+                "user": "リワルフ",
+                "description": "第235話初登場区域。巨大な氷柱に対象を一瞬にして閉じ込めてしまう。"
+            },
+            {
                 "move_name": "刹那十字星",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi55",
                 "user": "ななし",
                 "description": "第125話初登場。\n超巨大な十字の斬撃を繰り出す自身の最大の奥義。"
+            },
+            {
+                "move_name": "刻肢無双",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi138",
+                "user": "ガラハド",
+                "description": "第235話初登場。剣を鞘から抜くと共に一瞬にして剣閃を無数に走らせて対象を刻む。"
             },
             {
                 "move_name": "剣撃の雨(スラッシュ・スコール)",
@@ -11386,6 +11398,12 @@
                 "description": "第121話初登場。\n姿を風景に溶け込ませていた。"
             },
             {
+                "move_name": "散りゆく薔薇(スキャタード・ローズ)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi133",
+                "user": "ローエングリン",
+                "description": "第233話初登場。レイピアのような武器から繰り出される素早い連続の突き攻撃。"
+            },
+            {
                 "move_name": "敬虔なる祈り",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi47",
                 "user": "キオン＆イゾルデ",
@@ -11494,6 +11512,12 @@
                 "description": "第184話初登場。「力の循環(フォース・サーキュラー)」で繰り出すもの。\n刀身に自身の魔力を増幅させてから再び自身に戻すことによって、\n身体能力をアップさせることが出来る。"
             },
             {
+                "move_name": "流星一閃(メテオ・スラスト)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi137",
+                "user": "イセ",
+                "description": "槍を振るうと共に大爆発を巻き起こしている。"
+            },
+            {
                 "move_name": "流星張り手(メテオハンド)",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi85",
                 "user": "パーシバル",
@@ -11510,6 +11534,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi99",
                 "user": "キオン",
                 "description": "第178話初登場。大地の上位精霊ゴクマグマを呼び出して\n強力な流砂によって相手を呑み込み動きを封じる。\n脱出は困難。"
+            },
+            {
+                "move_name": "浄化の星(ピュリフィ・スター)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi135",
+                "user": "トリスタン",
+                "description": "第234話初登場。対象の毒を浄化させている。"
             },
             {
                 "move_name": "浮風(ファルカ)",
@@ -11558,6 +11588,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi16",
                 "user": "バーギ",
                 "description": "第45話初登場。四大元素の杖を駆使して使用する魔法。\n杖の先端に炎を発生させる。\n振るうことで、炎を飛ばす。"
+            },
+            {
+                "move_name": "炎の雹雨(ヘイル・オブ・フレイム)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi134",
+                "user": "リワルフ",
+                "description": "第233話初登場。炎の雹を大量に降らせて攻撃をおこなっている。"
             },
             {
                 "move_name": "炸裂する太陽(サンシャインバースト)",

@@ -9574,6 +9574,12 @@
                 "description": "第7話初登場。神装天凱MODE Jackalにて使用。\n無数の亡霊のような獣によって対象を喰らって\n攻撃をする。"
             },
             {
+                "move_name": "氷炎万象砲(アークティック・メテオール)",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai30",
+                "user": "マグナス",
+                "description": "第50話初登場。ドラゴンの姿から繰り出される強力なブレス攻撃。おそらく炎と氷の属性が混ざっている。"
+            },
+            {
                 "move_name": "白龍墨華(はくりゅうぼっか)",
                 "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai25",
                 "user": "墨染百代",
@@ -9650,6 +9656,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kagurabachi.htm#kagurabachi22",
                 "user": "薊",
                 "description": "第95話初登場。薊家に代々伝わる妖術を戦闘用に改良したもの。\nコインに流れる微弱な電流を利用して、自身の血流を早め身体能力を向上したり、\n敵に対しては筋繊維を激しく刺激してダメージを与えたりする。"
+            },
+            {
+                "move_name": "悪臾(いたずら)",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurabachi.htm#kagurabachi29",
+                "user": "柴登吾",
+                "description": "第121話初登場。自身と自身に触れてるものに対して不具合をおこすことが出来る妖術。位置情報や身長、体重など肉体の情報に対しても有効となっている。"
             },
             {
                 "move_name": "涅(くろ)",
@@ -37396,6 +37408,12 @@
                 "description": "第12話初登場。巨大な刃を持ったような2本の腕を顕現化させている。"
             },
             {
+                "move_name": "蛸壺ノ蜜(オクトミア)",
+                "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato4",
+                "user": "クレハ",
+                "description": "第13話初登場。タコの触手のようなもので対象の細胞や組織を魔術で編み込んで治癒をおこなう魔術。"
+            },
+            {
                 "move_name": "鬼換(オグル)",
                 "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato2",
                 "user": "タリウス",
@@ -42922,6 +42940,12 @@
                 "description": "第6話初登場。\n魔法の障壁を展開させる魔法。"
             },
             {
+                "move_name": "命動点火(イグニッション)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu51",
+                "user": "ラウロ・リベリオ",
+                "description": "第90話初登場。火の闘気によって相手の攻撃を体で弾いている。"
+            },
+            {
                 "move_name": "四方散嵐(スキャッターストーム)",
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu43",
                 "user": "アルバス",
@@ -43060,6 +43084,12 @@
                 "description": "第25話初登場。「水晶殻(クリアシェル)」の火属性の結晶魔法。"
             },
             {
+                "move_name": "紅玉火炎弾(クリムゾンボンバー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu50",
+                "user": "ジーナ・グレイシス＆ラウロ・リベリオ",
+                "description": "第88話初登場。ジーナの「紅玉美晶(ルビー)」とラウロの「新星火球玉(ノヴァファイヤーボール)」を組み合わせた合体技。斬撃と共に大爆破を巻き起こしている。"
+            },
+            {
                 "move_name": "翠玉風晶(エメラルド)",
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu37",
                 "user": "ジーナ・グレイシス",
@@ -43072,6 +43102,12 @@
                 "description": "第33話初登場。\nまばゆい光によって目くらましをおこなっている。"
             },
             {
+                "move_name": "聖光大弓(セイント・アロー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu48",
+                "user": "フィオナ・ユミール",
+                "description": "第87話初登場。巨大な弓の光の矢を繰り出す魔法。"
+            },
+            {
                 "move_name": "聖光大槌(セイントハンマー)",
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu44",
                 "user": "フィオナ・ユミール",
@@ -43082,6 +43118,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu45",
                 "user": "フィオナ・ユミール",
                 "description": "第77話初登場。\n聖なるエネルギーを降らせて攻撃をおこなう魔法。"
+            },
+            {
+                "move_name": "薬晶穿孔(メディスンボルト)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu49",
+                "user": "ジーナ・グレイシス",
+                "description": "第87話初登場。作中では矢に薬を込めており、対象を癒やしている。"
             },
             {
                 "move_name": "藍玉水晶(アクアマリン)",

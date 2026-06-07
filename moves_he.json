@@ -11722,6 +11722,12 @@
                 "description": "エクストリームダッシュから繰り出される必殺技。\n9枚刃のブレードが相手に襲いかかる。\n発動時に九尾の狐の演出が見られる。"
             },
             {
+                "move_name": "ギガメギド",
+                "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex92",
+                "user": "バハムートブリッツ",
+                "description": "4層式の5枚の大型刃から繰り出されるエクストリームダッシュからの必殺のアタック。"
+            },
+            {
                 "move_name": "ギガントブリーチング",
                 "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex39",
                 "user": "ホエールウェーブ",
@@ -11738,6 +11744,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex53",
                 "user": "クリムゾンガルーダ",
                 "description": "エクストリームダッシュから繰り出される必殺技。\nトランスポイントビットによって変形して低くなった状態でアタックをしかける。\n炎の鳥の演出が見られる。"
+            },
+            {
+                "move_name": "クレスト・オブ・ガーディアン",
+                "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex90",
+                "user": "レオンクレスト",
+                "description": "紋章を破るような演出からライオンが現れる演出と共に繰り出されるエクストラシュート。"
             },
             {
                 "move_name": "クレスト・オブ・キング",
@@ -12016,6 +12028,12 @@
                 "description": "相手の力を利用してエクストリームラインに到達して\nエクストリームダッシュから繰り出される必殺アタック。\n超精密なアタックを可能としている。"
             },
             {
+                "move_name": "ヤマタノオロチ",
+                "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex91",
+                "user": "オロチクレスタ",
+                "description": "4枚のアッパー刃から繰り出されるエクストリームダッシュからの必殺のアタック。"
+            },
+            {
                 "move_name": "ユニオンスティング",
                 "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex19",
                 "user": "ユニコーンスティング",
@@ -12086,6 +12104,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex75",
                 "user": "ケルベロスフレイム",
                 "description": "エクストリームダッシュから繰り出される必殺技。\n地獄の門からケルベロスが現れる演出が見られる。"
+            },
+            {
+                "move_name": "破邪の剣",
+                "url": "https://hissatuwaza.kill.jp/setume/beiburex.htm#beiburex93",
+                "user": "ペルセウスダーク",
+                "description": "必殺のシュートの1つ。"
             },
             {
                 "move_name": "綺羅星",

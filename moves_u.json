@@ -24972,6 +24972,78 @@
         ]
     },
     {
+        "series_name": "裏東京のオソロシドコロ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm",
+        "moves": [
+            {
+                "move_name": "フツノミタマノツルギ",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo9",
+                "user": "蘆屋松子",
+                "description": "第6話初登場。霊術「武御雷(タケミカヅチ)」。刀の刀身から雷のようなものを伸ばして攻撃をしている。\n「三角の小屋 黒雲欲するは 蛮族の首」"
+            },
+            {
+                "move_name": "十柄剣(とつかのつるぎ)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo10",
+                "user": "蘆屋松子",
+                "description": "第7話初登場。霊術「武御雷(タケミカヅチ)」。無数の雷の実体剣のようなものを生み出している。"
+            },
+            {
+                "move_name": "寒寒女房(ウイドウ)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo5",
+                "user": "綿貫みぞれ",
+                "description": "第7話初登場。霊術「雪女」。雪のようなもので攻撃を行っている。"
+            },
+            {
+                "move_name": "御隣人(おとなりびと)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo8",
+                "user": "仇桐弥勒",
+                "description": "第3話初登場。霊術「二重を歩く者(ドッペルゲンガー)」。自律している巨大な霊体を生み出す。\n「目閉づれば夢路に手を取る奈落の友人」"
+            },
+            {
+                "move_name": "怨鎖",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo2",
+                "user": "古柳錫",
+                "description": "第3話初登場。霊術「金龍」。鎖を生み出している。"
+            },
+            {
+                "move_name": "斧鉞赤銅(ふえつしゃくどう)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo3",
+                "user": "古柳錫",
+                "description": "第7話初登場。霊術「金龍」。柄の長い斧を生み出して攻撃をしている。\n「汝 物言わぬ豪勇の士」"
+            },
+            {
+                "move_name": "残光玉響(ざんこうたまゆら)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo6",
+                "user": "芒崎司(ノギサキツカサ)",
+                "description": "第3話初登場。霊術「オーブ」。ジョウロから周囲にオーブのようなものを展開させて、周囲の者を強化する。\n「滴り落ちる高僧の泪」"
+            },
+            {
+                "move_name": "残光玉響(ざんこうたまゆら)瞬(またたき)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo7",
+                "user": "芒崎司(ノギサキツカサ)",
+                "description": "第7話初登場。霊術「オーブ」。ジョウロから周囲にオーブのようなものを展開させて、周囲の者を強化する。"
+            },
+            {
+                "move_name": "滅法乱髪(めっぽうらんぱつ)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo11",
+                "user": "南部春穂",
+                "description": "第7話初登場. 霊術「木花咲耶姫(このはなさくやひめ)」。髪を編んで縄にしたようなものを伸ばして攻撃をしている。\n「君想いて慟哭 血の湖中では 呼べど至らず」"
+            },
+            {
+                "move_name": "金剛奉行",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo1",
+                "user": "古柳錫",
+                "description": "第3話初登場。霊術「金龍」。金属バットを巨大な十手に変化させて悪霊を攻撃している。"
+            },
+            {
+                "move_name": "雪室(トーチカ)",
+                "url": "https://hissatuwaza.kill.jp/setume/uratokyo.htm#uratokyo4",
+                "user": "綿貫みぞれ",
+                "description": "第7話初登場。霊術「雪女」。雪の障壁のようなものを展開させている。\n「貴方を待って銀の古宿」"
+            }
+        ]
+    },
+    {
         "series_name": "運命の巻戻士",
         "series_url": "https://hissatuwaza.kill.jp/setume/makimodosi.htm",
         "moves": [

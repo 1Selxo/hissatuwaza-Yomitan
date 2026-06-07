@@ -10114,6 +10114,12 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/konan.htm",
         "moves": [
             {
+                "move_name": "コナキュア・ダブル・フライング・スペクトル・ウィズ・サッカーボール",
+                "url": "https://hissatuwaza.kill.jp/setume/konan.htm#konan7",
+                "user": "江戸川コナン＆キュアンサー(怪盗キッド)",
+                "description": "アニメ版オリジナルにて登場。名探偵プリキュアの\nキュアンサーに変装したキッドがピンク色の銃から光線を放ち、同時にコナンがキック力増強シューズでサッカーボールを飛ばすことによって、それらが合わさって相手に襲いかかる。コラボ回ならではの必殺技となっている。"
+            },
+            {
                 "move_name": "ヤイバーキック",
                 "url": "https://hissatuwaza.kill.jp/setume/konan.htm#konan1",
                 "user": "仮面ヤイバー",
@@ -10178,6 +10184,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri1",
                 "user": "キュアアンサー",
                 "description": "第4話初登場。\n拳にエネルギーをまとわせて殴りつける必殺技。"
+            },
+            {
+                "move_name": "プリキュアアンサーはなまるソード",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri6",
+                "user": "キュアアンサー",
+                "description": "第14話に初登場した必殺技。ポチタンから受け取ったマコトジュエルをプリキットミラールーペにセットする事で発動し、その先端から展開された巨大なすれ違い様に一閃して敵を浄化する。それと同時に刀身が砕け散るのが特徴である。\n「キュアっと解決！」"
+            },
+            {
+                "move_name": "プリキュアミスティックストライク",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri7",
+                "user": "キュアミスティック",
+                "description": "第16話に初登場した必殺技。ポチタンから受け取ったマコトジュエルをプリキットミラールーペにセットする事で発動し、その先端から展開された細身の刀身ですれ違い様に敵を貫いて浄化する。\n「キュアっと解決！」"
             },
             {
                 "move_name": "プリキュア・フライング・スペクトル",

@@ -58296,6 +58296,24 @@
         ]
     },
     {
+        "series_name": "天才祓学者ラロ・パープルの初",
+        "series_url": "https://hissatuwaza.kill.jp/setume/raropa-puru.htm",
+        "moves": [
+            {
+                "move_name": "エエエエ・エエエ",
+                "url": "https://hissatuwaza.kill.jp/setume/raropa-puru.htm#raropa-puru2",
+                "user": "ラロ・パープル",
+                "description": "対象を螺旋状に捻じ曲げて亜空間へ飛ばす呪文。"
+            },
+            {
+                "move_name": "モフルキエーナ",
+                "url": "https://hissatuwaza.kill.jp/setume/raropa-puru.htm#raropa-puru1",
+                "user": "ラロ・パープル",
+                "description": "手から衝撃波的なものを発している。"
+            }
+        ]
+    },
+    {
         "series_name": "天明の隠密",
         "series_url": "https://hissatuwaza.kill.jp/setume/tenmeinointoku.htm",
         "moves": [

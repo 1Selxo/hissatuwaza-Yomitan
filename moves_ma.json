@@ -17998,6 +17998,12 @@
                 "description": "技名は公式ガイドブックなどを参照にしたもの。\n頭上から降ってくるアイテムを食べ、そのアイテムの効果を\n吐き出して攻撃をする。\nアイテムが通る際にパネルがあり、そのパネルによって\n攻撃する相手が決まる。\nダメージを受けるほど攻撃回数がアップする。\nハンマーで撃退が可能。攻撃力は127。"
             },
             {
+                "move_name": "オカン 愛のムチムチ☆アタック",
+                "url": "https://hissatuwaza.kill.jp/setume/marioruiji.htm#marioruiji01",
+                "user": "ウルーサ",
+                "description": "マリオ&ルイージに敗北した直後のグラゴンに対して使用。黄色いオーラを纏い、一瞬で接近してどつく事で空の彼方まで吹き飛ばす。"
+            },
+            {
                 "move_name": "オメザビーム",
                 "url": "https://hissatuwaza.kill.jp/setume/marioruiji.htm#marioruiji86",
                 "user": "ネムルーゴ",
@@ -37052,6 +37058,30 @@
                 "url": "https://hissatuwaza.kill.jp/setume/tarutom.htm#tarutom1",
                 "user": "",
                 "description": "第5話参照。\nムチをまるで爪が襲いかかるかのように振るって\n攻撃をおこなう。"
+            },
+            {
+                "move_name": "光よ(ラ・リュミエール)",
+                "url": "https://hissatuwaza.kill.jp/setume/tarutom.htm#tarutom4",
+                "user": "タルト",
+                "description": "第1話初登場。剣を長大な光の槍に変化させて敵を突く。エリザ曰く「吹き飛ばすどころか魔女が消し飛んだ」。"
+            },
+            {
+                "move_name": "天国の扉(ラ・ポルトゥ・ドゥ・パラディ)",
+                "url": "https://hissatuwaza.kill.jp/setume/tarutom.htm#tarutom5",
+                "user": "タルト",
+                "description": "最終話で登場。完璧なるイレギュラーとなった状態で使用でき、対象の上空に幾重にも重なった円形の門を発生させ、そこから複数の光の十字状の槍が対象を貫き、タルトが手に持った長槍で対象を十字に切り裂き、門の中へ吸い込む。"
+            },
+            {
+                "move_name": "鎌(ファルチェ)",
+                "url": "https://hissatuwaza.kill.jp/setume/tarutom.htm#tarutom7",
+                "user": "リズ・ホークウッド",
+                "description": "第4話初登場。自身の影から生み出した鎌で対象を一閃する。"
+            },
+            {
+                "move_name": "鞭(フルスタ)",
+                "url": "https://hissatuwaza.kill.jp/setume/tarutom.htm#tarutom6",
+                "user": "リズ・ホークウッド",
+                "description": "第4話初登場。自身の影から生み出した鞭で対象を締め付ける。対象の足元からも鞭を発生する事もできる。"
             }
         ]
     },
@@ -47806,6 +47836,12 @@
                 "description": "第161話初登場。槍を無造作に振り回して攻撃をおこなう必殺技。"
             },
             {
+                "move_name": "裁きのブラストトルネード",
+                "url": "https://hissatuwaza.kill.jp/setume/maoujouoyasumi.htm#maoujouoyasumi11",
+                "user": "緑眼の砂竜(グリーンアイズ・サンド・ドラゴン)",
+                "description": "第439話初登場。遊戯王に登場するようなドラゴンが竜巻の攻撃をおこなっている。"
+            },
+            {
                 "move_name": "道連れ",
                 "url": "https://hissatuwaza.kill.jp/list/,,.setume/maoujouoyasumi.htm#maoujouoyasumi1",
                 "user": "",
@@ -49474,6 +49510,12 @@
                 "description": "第16話初登場。\n魔法によって氷の鮫を超大量に生み出している。"
             },
             {
+                "move_name": "氷鮫・氷像園(ウルワシ・アイスドリーム)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko52",
+                "user": "イチ",
+                "description": "第83話初登場。大量の自身の氷像を周囲に一瞬で展開させている。"
+            },
+            {
                 "move_name": "氷龍(ヒュルドラ)",
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko11",
                 "user": "チクトゲ・トゲアイス",
@@ -49538,6 +49580,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko21",
                 "user": "チクトゲ・トゲアイス",
                 "description": "第19話初登場。\n巨大な菌類を一瞬にして生み出している。"
+            },
+            {
+                "move_name": "装填・炎(マスカット・ルビー)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko51",
+                "user": "アマドロ・リボンキャンディ",
+                "description": "第81話初登場。ガトリングガンに弾丸として炎を装填して、繰り出すというもの。"
             },
             {
                 "move_name": "象鐘(ディンドン)",

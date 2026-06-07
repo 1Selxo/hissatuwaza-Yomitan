@@ -11734,6 +11734,12 @@
                 "description": "シリーズ4初登場。砲剣専用のスキルでシャープエッジを使用後に発動が可能。\n敵単体に斬撃で攻撃をおこなう。\n砲剣専用のスキルで、砲剣のエネルギーを術者に還元する\nカートリッジが装着させれてるので使用後にTPが回復される。"
             },
             {
+                "move_name": "インフェルノ",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:3",
+                "user": "世界樹の王",
+                "description": "1で登場。頭を使い、現在HPが半分以下の相手1体を即死させる。"
+            },
+            {
                 "move_name": "イーグルアイ",
                 "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus065",
                 "user": "パイレーツ",
@@ -11786,6 +11792,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus032",
                 "user": "プリンス(プリンセス)",
                 "description": "シリーズ3初登場。王たる証Lv1で習得可能な回復スキル。\n味方単体の強化効果を解除する代わりに、\nHPを回復させる。"
+            },
+            {
+                "move_name": "エタニティツリー",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:5",
+                "user": "世界樹の王",
+                "description": "1で登場。毎ターン終了時、自身のHPを900近く自動回復する。"
             },
             {
                 "move_name": "エナジータンゴ",
@@ -11972,6 +11984,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus223",
                 "user": "シャインバード",
                 "description": "パーティーの防御力を減少させるスキル。"
+            },
+            {
+                "move_name": "サイクロンルーツ",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:4",
+                "user": "世界樹の王",
+                "description": "1で登場。脚を使って全体に物理の大ダメージを与える。"
+            },
+            {
+                "move_name": "サウザンドネイル",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:1",
+                "user": "世界樹の王",
+                "description": "1で登場。腕を使って2〜4人を攻撃する。"
             },
             {
                 "move_name": "サクリファイス",
@@ -13414,6 +13438,12 @@
                 "description": "シリーズ4初登場。\n敵単体の足元から強力な火柱を巻き上げることによって\n火属性の大ダメージを与える術。\nスキルレベルをアップさせることによって効果をアップさせることが出来る。"
             },
             {
+                "move_name": "千樹 of 守り",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:2",
+                "user": "世界樹の王",
+                "description": "1で登場。腕を使い、このターンのみ自身は物理を含む属性攻撃を無効化する。"
+            },
+            {
                 "move_name": "千里眼の術式",
                 "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus00071",
                 "user": "アルケミスト",
@@ -14570,6 +14600,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0109",
                 "user": "ビーストキング",
                 "description": "シリーズ3初登場。獣王マスタリーLv10、\n捨身の心得ILv5で習得可能なスキル。\n召喚した獅子王が爪を連続で振るい\n敵全体にダメージを与えマヒ＆スタンにさせる。\n獅子王は最初は眠っている。\nスキルレベルが上がるとモンスターの攻撃力、状態異常の成功率が\nアップする。"
+            },
+            {
+                "move_name": "王の威厳",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:6",
+                "user": "世界樹の王",
+                "description": "1で登場。頭を使い、こちらメンバー全員 of バフが合計5つ以上の状態で使用し、全てのバフを解除する。"
+            },
+            {
+                "move_name": "王の誇り",
+                "url": "https://hissatuwaza.kill.jp/setume/sekaijus.htm#sekaijus0:7",
+                "user": "世界樹の王",
+                "description": "1で登場。2箇所以上の部位を封じられた際に使用し、自身の封じを全て解除する。"
             },
             {
                 "move_name": "生命の重奏",

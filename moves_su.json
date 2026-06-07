@@ -24174,6 +24174,18 @@
         ]
     },
     {
+        "series_name": "スルガメテオ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/surugameteo.htm",
+        "moves": [
+            {
+                "move_name": "流星スプリット",
+                "url": "https://hissatuwaza.kill.jp/setume/surugameteo.htm#surugameteo1",
+                "user": "駿河彗",
+                "description": "ストレートを160キロを誇る自身が投げる高速のスプリット。"
+            }
+        ]
+    },
+    {
         "series_name": "スレイヤーズvsオーフェン",
         "series_url": "https://hissatuwaza.kill.jp/setume/rinavso-fen.htm",
         "moves": [

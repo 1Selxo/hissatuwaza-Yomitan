@@ -7930,6 +7930,12 @@
                 "description": "第10話初登場。風波流の技。その名の通り、壁を通り抜けることが出来る。"
             },
             {
+                "move_name": "式神",
+                "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani10",
+                "user": "ギャバン・ライヤ",
+                "description": "第12話初登場。風波流の技。追跡したい相手に折り紙を貼り付ける。それを折り鶴が自動的に追尾して居場所を教えてくれる。"
+            },
+            {
                 "move_name": "影無(かげなし)",
                 "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani3",
                 "user": "ギャバン・ライヤ",
@@ -7948,6 +7954,12 @@
                 "description": "第5話初登場。\n2本のギャバリオンブレードを擦り合わせることで刃にエネルギーをまとわせる。\nそして片方のギャバリオンブレードで満月を描くようにして氷を生み出し、\nブレードを振るうことによって氷塊と斬撃を飛ばして攻撃をする奥義。"
             },
             {
+                "move_name": "火花",
+                "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani9",
+                "user": "ギャバン・ライヤ",
+                "description": "第12話初登場。風波流の技。武器を地面に擦り付けることによって、火花をまとわせた斬撃を繰り出すことが可能になる。"
+            },
+            {
                 "move_name": "真空剣",
                 "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani6",
                 "user": "ギャバン・ライヤ",
@@ -7960,10 +7972,22 @@
                 "description": "第10話初登場。風波流の技。遠隔から光線のようなものを発射して命中させた、機械をジャックして自在に操ることが出来る。"
             },
             {
+                "move_name": "迅雷震",
+                "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani12",
+                "user": "ギャバン・ライヤ",
+                "description": "第12話初登場。風波流の奥義。自身を数十mのサイズに巨大化させることが出来る。"
+            },
+            {
                 "move_name": "鎧断(よろいだち)",
                 "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani8",
                 "user": "ギャバン・ライヤ",
                 "description": "第11話初登場。風波流の技。ギャバリオンブレードを振るうことによって、相手が装備しているアーマーを強制的に解除させている。"
+            },
+            {
+                "move_name": "鷹駆(たかがけ)",
+                "url": "https://hissatuwaza.kill.jp/setume/gyabani.htm#gyabani11",
+                "user": "ギャバン・ライヤ",
+                "description": "第12話初登場。風波流の技。マンションの高い位置まで行くほどの、物凄い跳躍力を発揮する。"
             }
         ]
     },

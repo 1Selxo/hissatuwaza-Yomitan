@@ -52498,6 +52498,12 @@
                 "description": "第27話初登場。太い木の枝を利用して鉄棒の大車輪を\nしてから飛びかかってライダーキック的な蹴りを繰り出す。"
             },
             {
+                "move_name": "ライダーマンユカリスキック",
+                "url": "https://hissatuwaza.kill.jp/setume/tanzaburou.htm#tanzaburou15",
+                "user": "ライダーマンユカリス",
+                "description": "第70話初登場。ライダーマンのスーツ(装甲)を装備した状態で繰り出した飛び蹴り。"
+            },
+            {
                 "move_name": "新電波投げ",
                 "url": "https://hissatuwaza.kill.jp/setume/tanzaburou.htm#tanzaburou1",
                 "user": "岡田ユリコ",
@@ -52508,6 +52514,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/tanzaburou.htm#tanzaburou13",
                 "user": "サンダーライコ",
                 "description": "大量の人間たちを一気に持ち上げて、それを\n放り投げている。"
+            },
+            {
+                "move_name": "風見志郎キック",
+                "url": "https://hissatuwaza.kill.jp/setume/tanzaburou.htm#tanzaburou16",
+                "user": "島村一葉",
+                "description": "第71話初登場。V3としてではなく風見志郎として繰り出した飛び蹴り。あくまでも修行の一貫ということで変身しないで使用している。"
             }
         ]
     },

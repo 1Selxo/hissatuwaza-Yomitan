@@ -21280,6 +21280,12 @@
                 "description": "第46話初登場。\nアーサーの十字架を使ってものすごい戒力が込められた\nエネルギー剣を作る。"
             },
             {
+                "move_name": "全体闇強化(オールブラックバフ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun117",
+                "user": "地獄瀬ボボ",
+                "description": "第90話初登場。自身が貸し与えた魔力を全員から強制的に返還させて自身にまとわせる。作中では600体分の魔力を一気にまとっている。"
+            },
+            {
                 "move_name": "八点鐘\"崩拳\"",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun44",
                 "user": "黒鐘凶華",
@@ -21322,10 +21328,22 @@
                 "description": "第88話初登場。黒雷を一点に集中させて威力をアップさせている。"
             },
             {
+                "move_name": "大魔神黒雷",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun119",
+                "user": "地獄瀬ボボ",
+                "description": "第93話初登場。上空に超巨大な黒雲を発生させて、そこから繰り出す黒い雷。"
+            },
+            {
                 "move_name": "天罰の咆哮(ティーンスピリット)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun89",
                 "user": "死屍戸五郎",
                 "description": "第74話初登場。「悪食生成(クラフトワーク)」によって\n自身の受けたダメージをくらって、\nそれを吐き出して攻撃をする。"
+            },
+            {
+                "move_name": "太陽と月の富嶽闢星(ルークスギガントステラ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun122",
+                "user": "祓清",
+                "description": "第93話初登場。腕を十字に交差させてから魔力と戒力を混ぜた超圧縮させたエネルギーをぶつける。発動させた時点では自身の最強の必殺技なる。"
             },
             {
                 "move_name": "太陽と月の悪祓十字剣(ルークスグラディウス)",
@@ -21898,6 +21916,18 @@
                 "description": "第34話初登場。\n地面に槍の柄を突くことによって、\n気のようなものを周囲に放出して攻撃をする。"
             },
             {
+                "move_name": "黒ノ巨月拳(ブラックヘカトンケイル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun121",
+                "user": "祓清",
+                "description": "第93話初登場. 月の破壊神(ムーンライズ・キングダム)。魔力と戒力を混ぜた拳による一撃を繰り出している。"
+            },
+            {
+                "move_name": "黒ノ月銃(ブラックアルテミス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun120",
+                "user": "祓清",
+                "description": "第93話初登場。月の破壊神(ムーンライズ・キングダム)。人差し指の先端に魔力と戒力を黒い球状に圧縮させ、そこから弾丸のようにして飛ばしている。"
+            },
+            {
                 "move_name": "黒雷(こくらい)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun105",
                 "user": "地獄瀬ガガ",
@@ -21914,6 +21944,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun110",
                 "user": "地獄瀬ボボ",
                 "description": "第87話初登場。対象に手のひらを当てて、黒雷を放出して攻撃をおこなう。"
+            },
+            {
+                "move_name": "黒雷金剛拳",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun118",
+                "user": "地獄瀬ボボ",
+                "description": "第91話初登場。腕 the 周囲に黒雷をまとわせた状態で繰り出すパンチ攻撃。"
             },
             {
                 "move_name": "黒雷鉄拳(こくらいてっけん)",
@@ -44698,6 +44734,12 @@
                 "description": "舞のファイナルメモリー(超必殺技)。本来の隠しエタニースペシャル、覚醒を使用している状態でのみ使用できる技で、ヒットすると画面全体を覆う斬撃が走り、シルエットになった両者が映し出されて舞が剣を納刀すると相手は吹き飛ばされてダメージを負う。この時のダメージ量は残りの覚醒ゲージの多さで決まる。(マサキさんより)"
             },
             {
+                "move_name": "全体闇強化(オールブラックバフ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun117",
+                "user": "地獄瀬ボボ",
+                "description": "第90話初登場。自身が貸し与えた魔力を全員から強制的に返還させて自身にまとわせる。作中では600体分の魔力を一気にまとっている。"
+            },
+            {
                 "move_name": "全力投げまくら",
                 "url": "https://hissatuwaza.kill.jp/setume/sdfc.htm#sdfc9",
                 "user": "ニューガンダム",
@@ -45916,6 +45958,12 @@
                 "description": "第88話初登場。黒雷を一点に集中させて威力をアップさせている。"
             },
             {
+                "move_name": "大魔神黒雷",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun119",
+                "user": "地獄瀬ボボ",
+                "description": "第93話初登場。上空に超巨大な黒雲を発生させて、そこから繰り出す黒い雷。"
+            },
+            {
                 "move_name": "大鳥の羽ばたき",
                 "url": "https://hissatuwaza.kill.jp/setume/snkgf.htm#snkgf12",
                 "user": "不知火舞",
@@ -46106,6 +46154,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/au0.htm#au0:52",
                 "user": "エステル・ブライト＆ヨシュア・ブライト",
                 "description": "エステルとヨシュアによるコンビクラフト。\nヨシュアが鋭く斬り込んだところにすかさずエステルが追撃を加えて敵陣を乱し、最後にエステル＆3人に分身したヨシュアによる一斉攻撃を叩き込む。\n威力面では『バーニングレイジII』に届かないものの、攻撃範囲の広さやヒット数の多さなどを加味した総合力で見れば最強のコンビクラフトと言える性能を誇る。\n『零の軌跡』において初めて披露されたコンビクラフトであり、その際はロイドたち主人公チームが2体相手に苦戦したボス魔獣3体を瞬時に葬る圧倒的威力を見せつけた。\n(悠久さんより)"
+            },
+            {
+                "move_name": "太陽と月の富嶽闢星(ルークスギガントステラ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun122",
+                "user": "祓清",
+                "description": "第93話初登場。腕を十字に交差させてから魔力と戒力を混ぜた超圧縮させたエネルギーをぶつける。発動させた時点では自身の最強の必殺技なる。"
             },
             {
                 "move_name": "太陽と月の悪祓十字剣(ルークスグラディウス)",
@@ -55036,6 +55090,18 @@
                 "description": "黒き闘気をまとって槍を旋回させることによって、\n竜巻を発生させ周囲の相手を引き寄せて、槍で薙ぎ払って吹き飛ばす。"
             },
             {
+                "move_name": "黒ノ巨月拳(ブラックヘカトンケイル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun121",
+                "user": "祓清",
+                "description": "第93話初登場. 月の破壊神(ムーンライズ・キングダム)。魔力と戒力を混ぜた拳による一撃を繰り出している。"
+            },
+            {
+                "move_name": "黒ノ月銃(ブラックアルテミス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun120",
+                "user": "祓清",
+                "description": "第93話初登場。月の破壊神(ムーンライズ・キングダム)。人差し指の先端に魔力と戒力を黒い球状に圧縮させ、そこから弾丸のようにして飛ばしている。"
+            },
+            {
                 "move_name": "黒弄礫死(クロレキシ)",
                 "url": "https://hissatuwaza.kill.jp/setume/sdf2.htm#sdf36",
                 "user": "逆伐",
@@ -55070,6 +55136,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun110",
                 "user": "地獄瀬ボボ",
                 "description": "第87話初登場。対象に手のひらを当てて、黒雷を放出して攻撃をおこなう。"
+            },
+            {
+                "move_name": "黒雷金剛拳",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun118",
+                "user": "地獄瀬ボボ",
+                "description": "第91話初登場。腕 the 周囲に黒雷をまとわせた状態で繰り出すパンチ攻撃。"
             },
             {
                 "move_name": "黒雷鉄拳(こくらいてっけん)",

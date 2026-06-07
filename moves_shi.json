@@ -7444,6 +7444,12 @@
                 "description": "第50話初登場。召捕六ヶ術の1つ。\n掌底を繰り出して攻撃をする。\n障害物ごしの対象のみに衝撃を与えることが出来る。\n考案者が岩の上の盃を叩いて、岩だけを割ったことからこの技名がついたという。"
             },
             {
+                "move_name": "超飛槍泡",
+                "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto22",
+                "user": "カササギ＆ヨダカ",
+                "description": "第80話初登場。「飛槍泡」をヨダカが引っ張ることで、発射の際にその反動を利用して二人分のパワーで飛ばすことが出来る。"
+            },
+            {
                 "move_name": "踊髪(ようはつ)",
                 "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto5",
                 "user": "イカル",
@@ -7556,6 +7562,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/simajirou.htm#simajirou4",
                 "user": "げんきだマン",
                 "description": "第207話初登場。\n両手の拳から光線を発射する必殺技。\nビタミンとカロチンがあれば発射が可能となっている。"
+            },
+            {
+                "move_name": "タコヤキボンバー",
+                "url": "https://hissatuwaza.kill.jp/setume/simajirou.htm#simajirou8",
+                "user": "",
+                "description": ""
             },
             {
                 "move_name": "ラットスパイラル",
@@ -34966,6 +34978,12 @@
                 "description": "第304話初登場。\n空中で相手と組んだ状態で首をガッチリ絞めあげて、\nそのままブラックアウト状態にして、\n急速回転することで一瞬にして落としてしまう。"
             },
             {
+                "move_name": "暗鶚柳瓢忽(くれみさごりゅうひょうこつ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kenichi.htm#kenichi02",
+                "user": "",
+                "description": "相手の後頭部を狙って繰り出す飛び回し蹴りのような一撃。"
+            },
+            {
                 "move_name": "最強コンボ",
                 "url": "https://hissatuwaza.kill.jp/setume/kenichi.htm#keniti9",
                 "user": "白浜兼一",
@@ -35084,6 +35102,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kenichi.htm#kenichi313",
                 "user": "セロ・ラフマン",
                 "description": "第578話初登場。\n両手を合わせた状態で、上から手刀を\n振り下ろして攻撃をする。"
+            },
+            {
+                "move_name": "流水でんぐり返し",
+                "url": "https://hissatuwaza.kill.jp/setume/kenichi.htm#kenichi01",
+                "user": "白浜兼一",
+                "description": "脱力の状態になってでんぐり返しをおこなって相手の攻撃を回避している。"
             },
             {
                 "move_name": "流水制空圏",
