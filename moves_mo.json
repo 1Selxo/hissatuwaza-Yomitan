@@ -11110,6 +11110,12 @@
                 "description": "第204話初登場。対象らを一刀両断にしている。"
             },
             {
+                "move_name": "クロサンザシノの冬(ブラックソーン・ウインター)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi140",
+                "user": "",
+                "description": "第241話初登場。神樹の弓から繰り出される矢。\n大量に分裂した矢が対象を襲う。\nくらった人間がまるで枯れ木のようになってしまう。"
+            },
+            {
                 "move_name": "グラウンド・ストライク",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi64",
                 "user": "ドニー",
@@ -11126,6 +11132,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi19",
                 "user": "ランスロット",
                 "description": "第49話初登場。\n武器の先端から魔力を光る道として伸ばし、\n対象を追いかけて攻撃をすることが出来る。\n作者が昔連載していたライジングインパクトの\n同名のキャラが使用する能力と同じ名前だったりする。"
+            },
+            {
+                "move_name": "スタン・ビート",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi142",
+                "user": "",
+                "description": "第241話初登場。武器(雷神の杖柄剣)を通して対象に電撃を浴びせている。"
+            },
+            {
+                "move_name": "スラスト・アンガー",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi143",
+                "user": "",
+                "description": "第241話初登場。\n空中を高速で飛び回りながら槍による刺突を繰り返す。"
             },
             {
                 "move_name": "ナイン・スマッシュ",
@@ -11450,6 +11468,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi41",
                 "user": "トリスタン",
                 "description": "第111話初登場。\n二剣からによる連続の斬撃から\n相手を爆破している。"
+            },
+            {
+                "move_name": "死の審判(ジャッジメント・オブ・デス)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi141",
+                "user": "",
+                "description": "第241話初登場。\n対象を消滅させている魔法。"
             },
             {
                 "move_name": "死の雨(デッドレイン)",
@@ -11864,6 +11888,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi75",
                 "user": "キルベガン",
                 "description": "第146話初登場。相手の\n攻撃を防ぐために使用した魔法。"
+            },
+            {
+                "move_name": "魔力散逸(マジックディスペイション)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi144",
+                "user": "",
+                "description": "第241話初登場。\n対象の魔力を散逸させることができる魔法。"
+            },
+            {
+                "move_name": "黒の覚醒(ブラックアウェイク)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi139",
+                "user": "",
+                "description": "第241話初登場。\n自身の中の魔神の血を呼び起こして、強化させる。"
             },
             {
                 "move_name": "黒葬(ダークデストロイ)",

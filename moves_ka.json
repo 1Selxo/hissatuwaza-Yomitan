@@ -11070,6 +11070,24 @@
         ]
     },
     {
+        "series_name": "カノンマスター",
+        "series_url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm",
+        "moves": [
+            {
+                "move_name": "風の詩「乱」",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster1",
+                "user": "バラト",
+                "description": "第1話初登場。魔笛「風守の嘴(かざもりのくちばし)」\nを駆使して相手の攻撃の軌道を逸している。"
+            },
+            {
+                "move_name": "風の詩「穿」",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster2",
+                "user": "バラト、ウル",
+                "description": "第1話初登場。魔笛「風守の嘴(かざもりのくちばし)」\nを駆使して貫通力の高い風を飛ばしている。\n膨大な魔力を誇るウルが使用する場合、地面に巨大なクレーターを\n発生させるほどの光線のような一撃となっている。"
+            }
+        ]
+    },
+    {
         "series_name": "カバディ7",
         "series_url": "https://hissatuwaza.kill.jp/setume/kabad.htm",
         "moves": [
@@ -42910,6 +42928,12 @@
                 "description": "第3話初登場。\n大きく飛び上がりながら剣を振り上げて\n攻撃をする。"
             },
             {
+                "move_name": "光輝の剣(クラウ・ソラス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu57",
+                "user": "フィオナ・ユミール",
+                "description": "第91話初登場。\n武器に光り輝く魔力のようなものをまとわせて強化している。"
+            },
+            {
                 "move_name": "光輝蝶(パピリア)",
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu10",
                 "user": "フィオナ・ユミール",
@@ -43034,6 +43058,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu36",
                 "user": "アルバス",
                 "description": "第54話初登場。\n斬撃の風圧によって湖の底が見えるくらには\n水面を割っている。"
+            },
+            {
+                "move_name": "水瓶柱牢(アクアリウス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu56",
+                "user": "アヴァル",
+                "description": "第91話初登場。星宮魔法。\n対象の足元から水柱を噴出させて、水柱の中に\n閉じ込めることができる。"
             },
             {
                 "move_name": "治癒魔法(ヒール)",
@@ -43214,6 +43244,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu29",
                 "user": "ジーナ・グレイシス",
                 "description": "第45話初登場。\n宝石に雷撃のようなものをまとわせて\n繰り出す宝石魔法。"
+            },
+            {
+                "move_name": "龍王裂波",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu58",
+                "user": "ライマン",
+                "description": "第92話初登場。\n斬撃とともに巨大な竜の闘気のようなものを飛ばしている。"
             }
         ]
     },
@@ -50966,6 +51002,36 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaijinhugeki.htm#kaijinhugeki2",
                 "user": "ジン",
                 "description": "植物を錐状に急激に伸ばして攻撃をしている。"
+            },
+            {
+                "move_name": "機骸輪",
+                "url": "https://hissatuwaza.kill.jp/setume/kaijinhugeki.htm#kaijinhugeki6",
+                "user": "ミカイェ",
+                "description": "指のリングを巨大な\n刃のリングに変化させて転がして攻撃をしている。"
+            },
+            {
+                "move_name": "火炎輪",
+                "url": "https://hissatuwaza.kill.jp/setume/kaijinhugeki.htm#kaijinhugeki5",
+                "user": "ミカイェ",
+                "description": "指のリングを巨大な炎を発する\n車輪に変化させて攻撃をしている。"
+            },
+            {
+                "move_name": "空飛ぶ豚神(ウォーフォッグ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaijinhugeki.htm#kaijinhugeki3",
+                "user": "コージ",
+                "description": "祝詞と舞によって円陣を作り、\n空中に大量にミサイルなどを展開させて攻撃をする。"
+            },
+            {
+                "move_name": "轢輪(れきりん)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaijinhugeki.htm#kaijinhugeki7",
+                "user": "ミカイェ",
+                "description": "指のリングを巨大な\n歯車に変化させて攻撃をしている。"
+            },
+            {
+                "move_name": "風拳(ふうけん)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaijinhugeki.htm#kaijinhugeki4",
+                "user": "椎葉大天狗",
+                "description": "扇を振るって、風が巨大な拳となって\n襲いかかる。"
             }
         ]
     },

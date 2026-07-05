@@ -24540,6 +24540,48 @@
         ]
     },
     {
+        "series_name": "冒険家エリオットの千年物語",
+        "series_url": "https://hissatuwaza.kill.jp/setume/eliot.htm",
+        "moves": [
+            {
+                "move_name": "キューイン",
+                "url": "https://hissatuwaza.kill.jp/setume/eliot.htm#eliot4",
+                "user": "フェイ",
+                "description": "フェイを中心に竜巻を起こし、周囲の敵や物体を引き寄せられる。同時にツボやタルを引き寄せれば敵にダメージ。強化すると竜巻が消えた際に敵を気絶する衝撃波を放てる。"
+            },
+            {
+                "move_name": "コピー",
+                "url": "https://hissatuwaza.kill.jp/setume/eliot.htm#eliot5",
+                "user": "フェイ",
+                "description": "フェイがエリオットの姿と動きや攻撃を真似る。強化するとエリオットとコピーを結ぶ線で敵を攻撃できるようになり、コピーの攻撃力も上がる。"
+            },
+            {
+                "move_name": "シッソー",
+                "url": "https://hissatuwaza.kill.jp/setume/eliot.htm#eliot2",
+                "user": "フェイ",
+                "description": "エリオットと共に高速移動できる魔法。強化するとぶつかった敵を弾き飛ばせるようになる。"
+            },
+            {
+                "move_name": "チャッカ",
+                "url": "https://hissatuwaza.kill.jp/setume/eliot.htm#eliot1",
+                "user": "フェイ",
+                "description": "フェイが燃え上がる魔法で、燭台に火をつけたり敵を燃やして攻撃できたり凍ったエリオットを解凍したり爆弾を即爆発することもできる。\n強化すると発動を止めた際に爆風を起こせる。"
+            },
+            {
+                "move_name": "ノムトウタ",
+                "url": "https://hissatuwaza.kill.jp/setume/eliot.htm#eliot6",
+                "user": "エリオット",
+                "description": "ライトスタッフ、そして三つの奥義の書をノイーワンに持っていく事で習得できる封魔の奥義。ライトスタッフを装備した状態で最後まで力を溜めれば発動する。冷気を纏い敵を思い切り突くことで敵のバリアも破壊できる。"
+            },
+            {
+                "move_name": "ワープ",
+                "url": "https://hissatuwaza.kill.jp/setume/eliot.htm#eliot3",
+                "user": "フェイ",
+                "description": "エリオットをフェイの所まで瞬間移動させる魔法。強化すると瞬間移動時に少しの間だけ敵に気づかれなくなる。"
+            }
+        ]
+    },
+    {
         "series_name": "冒険少年ゲンキ",
         "series_url": "https://hissatuwaza.kill.jp/setume/sgenki.htm",
         "moves": [

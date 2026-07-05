@@ -21298,6 +21298,12 @@
                 "description": "第67話初登場。\n青の執行人(パーフェクトブルー)。 紋章悪祓術で、 聖水を計8発の弾丸状にして飛ばして攻撃をする。"
             },
             {
+                "move_name": "千ノ黒槍(ミッレーアテル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun125",
+                "user": "聖槍(ひじりうつぎ)",
+                "description": "第98話初登場。紋章悪祓術「六槍の使徒(シックスセンス)」。\n黒き千の槍を展開させている。"
+            },
+            {
                 "move_name": "反逆の咆哮(ネバーマインド)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun82",
                 "user": "死屍戸五郎",
@@ -21658,6 +21664,12 @@
                 "description": "第13話初登場。聖水銃(アクアガン)\nから大気の水分を聖水に変化させて繰り出される射撃攻撃。弾数は\n大気に水分がある限り無限となっている。"
             },
             {
+                "move_name": "氷槍(グラキエス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun123",
+                "user": "聖槍(ひじりうつぎ)",
+                "description": "第98話初登場。紋章悪祓術「六槍の使徒(シックスセンス)」。\n氷の槍を展開させる。\n槍は突いた地点から冷気が伝わって対象を凍らせることが出来る。"
+            },
+            {
                 "move_name": "氷殺拳",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun54",
                 "user": "鎖田苦露是(さたくろせ)",
@@ -21716,6 +21728,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun51",
                 "user": "棺葬介",
                 "description": "第42話初登場。青の執行人(パーフェクトブルー)。 紋章悪祓術で、\n聖水を熱湯状態で繰り出すというもの。"
+            },
+            {
+                "move_name": "炎槍(イグニス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun124",
+                "user": "聖槍(ひじりうつぎ)",
+                "description": "第98話初登場。紋章悪祓術「六槍の使徒(シックスセンス)」。\n巨大な炎の槍を投擲している。"
             },
             {
                 "move_name": "炎獄爆炎(ハイライト)",
@@ -45190,6 +45208,12 @@
                 "description": "最終話にて登場。\n杖の先端からエネルギー状の\n刃を展開させて攻撃をおこなう。"
             },
             {
+                "move_name": "千ノ黒槍(ミッレーアテル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun125",
+                "user": "聖槍(ひじりうつぎ)",
+                "description": "第98話初登場。紋章悪祓術「六槍の使徒(シックスセンス)」。\n黒き千の槍を展開させている。"
+            },
+            {
                 "move_name": "千年妖狐",
                 "url": "https://hissatuwaza.kill.jp/setume/eruso-do.htm#eruso-do173",
                 "user": "アラ・ハーン",
@@ -48844,6 +48868,12 @@
                 "description": "氷状の巨大なドームの中に対象を閉じ込める合体技。\nその寒さによって相手の体力を徐々に奪っていく。\nまた中の氷の壁を変更させたりすることも可能。"
             },
             {
+                "move_name": "氷槍(グラキエス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun123",
+                "user": "聖槍(ひじりうつぎ)",
+                "description": "第98話初登場。紋章悪祓術「六槍の使徒(シックスセンス)」。\n氷の槍を展開させる。\n槍は突いた地点から冷気が伝わって対象を凍らせることが出来る。"
+            },
+            {
                 "move_name": "氷殺拳",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun54",
                 "user": "鎖田苦露是(さたくろせ)",
@@ -49532,6 +49562,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/iroha.htm#iroha3",
                 "user": "一六八(いろは)",
                 "description": "第2話初登場。火の法の第三の法。\n「臨　兵　闘　者　皆　陳　列　在」「砲」の呪言と共に、\n鎖玉の「鎖」の芯棒部分を外すことで、\n玉の穴部分から炎柱を放出させることができる。\n攻撃だけでなく、炎を地面に向かって放出させ空を飛ぶことも可能。\n●暗号「言の葉は「砲」唐辛子種を除いて敵の前に鞘を向ければ火の柱」"
+            },
+            {
+                "move_name": "炎槍(イグニス)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun124",
+                "user": "聖槍(ひじりうつぎ)",
+                "description": "第98話初登場。紋章悪祓術「六槍の使徒(シックスセンス)」。\n巨大な炎の槍を投擲している。"
             },
             {
                 "move_name": "炎槍の法",

@@ -19968,6 +19968,78 @@
         ]
     },
     {
+        "series_name": "黒月のイェルクナハト",
+        "series_url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm",
+        "moves": [
+            {
+                "move_name": "spiders prison",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno3",
+                "user": "エイブラハム",
+                "description": "第21話初登場。\n無数の鋭い糸を張り巡らせて\n相手を拘束する。"
+            },
+            {
+                "move_name": "アイ・イン・ザ・スカイ",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno1",
+                "user": "エイブラハム",
+                "description": "相手の嘘を見破ることが出来る能力。"
+            },
+            {
+                "move_name": "クー・ドゥ・ブランシュリュミエール",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno11",
+                "user": "",
+                "description": "第50話初登場。\n結界を破壊した飛び蹴り。"
+            },
+            {
+                "move_name": "シャッフル＆ディール　B・B・B(バッドビードボーイズ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno2",
+                "user": "エイブラハム",
+                "description": "第21話初登場。\n大量のトランプを飛ばして、\n爆破させる。"
+            },
+            {
+                "move_name": "ビーストファング",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno4",
+                "user": "",
+                "description": "第21話初登場。\n対象に噛みついて攻撃をしている。"
+            },
+            {
+                "move_name": "ヘイル・メイル・シュトローム",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno5",
+                "user": "ウェンティ・ノア・フライハイト",
+                "description": "第21話初登場。空気のベクトルを操作して\n周囲のものを竜巻のごとくぶん回す。"
+            },
+            {
+                "move_name": "天凱聖章",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno9",
+                "user": "アザカ・ハルモニエ",
+                "description": "第29話初登場。\n相手の攻撃を受け付けないという能力。\n回数制限もあるが、120回あるというかなりのチート性能。"
+            },
+            {
+                "move_name": "死を降らす積乱雲(ロストクラウドスコール)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno10",
+                "user": "アネモ",
+                "description": "第45話初登場。自身の体を毒性の水蒸気へと変化させる。"
+            },
+            {
+                "move_name": "死を降らす赤乱雲(ロストクラウドスコール)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno7",
+                "user": "アネモネ",
+                "description": "第28話初登場。\n自身の全身をバラバラにすることによって\n血煙が巨人となって行動することが可能となっている。"
+            },
+            {
+                "move_name": "独人火ノ玉",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno8",
+                "user": "ブリギッド・シャッツ",
+                "description": "第29話初登場。\n自身が巨大な火の玉のようになって\n突進をおこなう。"
+            },
+            {
+                "move_name": "自決の刃",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno6",
+                "user": "ブリギッド・シャッツ",
+                "description": "第28話初登場。\n飲み込んだものを吐き出すために自身の腹に\n刃を突き立ててショックを与えることで吐き出している。\n本人いわく秘技。"
+            }
+        ]
+    },
+    {
         "series_name": "黒森さんはスマホが使えない",
         "series_url": "https://hissatuwaza.kill.jp/setume/kuromorisan.htm",
         "moves": [

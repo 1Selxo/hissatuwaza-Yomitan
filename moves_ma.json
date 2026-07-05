@@ -38608,16 +38608,160 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/mirakuruaroha.htm",
         "moves": [
             {
+                "move_name": "アレグロ・フェローチェ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra14",
+                "user": "美樹さやか",
+                "description": "★5キオク「バルダメンテ・フォルティッシモ」の戦闘スキル。敵単体をメッタ斬りにし、自身の防御力に依存した水属性ダメージを与え、味方全体に発動者の防御力の数割+一定数値のバリアを付与する(2ターン)。"
+            },
+            {
+                "move_name": "シャボン魔法弾",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra20",
+                "user": "百江なぎさ",
+                "description": "★5キオク「魔法のケーキドーム」の戦闘スキル。上空からラッパを吹いて泡を噴出し、敵全体に光属性ダメージを与え、味方全体のHPを発動者のHP数割+一定量回復。更にリジェネレイト(2ターン)とおかしなチーズ(2ターン)を付与する。"
+            },
+            {
+                "move_name": "ジェンメ・ピッチーネ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra8",
+                "user": "環うい",
+                "description": "★5キオク「ルーチェ・スペランツファー」の戦闘スキル。祈りを捧げるような仕草で背面の凧から宝石を撒き散らし、味方全体の与えるダメージアップ(2ターン)、更に闇属性で与えるダメージアップ(2ターン)。"
+            },
+            {
+                "move_name": "ジャッジメントレイ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra22",
+                "user": "美国織莉子",
+                "description": "★5キオク「オラクルレイ」の戦闘スキル。周囲に漂う球体を放ち、敵全体に光属性ダメージを与え、敵が5体未満の場合は更に数割の光属性のダメージを与える(敵の数が少ないほど回数増加、最大4回)。敵の数が2体以上の時は敵の数が多いほど自身のMPが増える。"
+            },
+            {
+                "move_name": "スピエタータ・スカーリカ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra13",
+                "user": "巴マミ",
+                "description": "メインクエスト「叛逆の物語」ナイトメアの第5階層でボスとして登場するマミが使用する戦闘スキル。空中から自身の周囲にリング状に展開させたマスケット銃を乱射する。\n敵全体に強威力の木属性ダメージを与える。自身の魔力を全消費し、消費量に応じて威力が上がる。"
+            },
+            {
+                "move_name": "スプラッシュクリーン",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra4",
+                "user": "由比鶴乃",
+                "description": "イベント「ホテルプールの危機を救え！プール掃除編」で使用。縦横無尽にブラシを操り、プールの床と壁をまとめて綺麗にするが、やちよの指摘によると磨き残しが出たとのこと。後に先導役となり、フェリシアが磨き残しを処理する事に。"
+            },
+            {
+                "move_name": "ティロ・ボレー",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra12",
+                "user": "巴マミ",
+                "description": "★5キオク「ティロ・フィナーレ」の戦闘スキル。飛び上がって複数のマスケット銃を発生させて射撃することで敵全体に木属性ダメージを与え、味方全体の攻撃力を上げつつ(2ターン)、自身の魔力+2。"
+            },
+            {
+                "move_name": "ディフュージオサジッタ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra11",
+                "user": "鹿目まどか",
+                "description": "★5キオク「プルウィア☆マギカ」の戦闘スキル。飛び上がって弓を複数射ることで敵全体に光属性ダメージを与え、自身のHPが80%以上の時はブレイクゲージ削減量上昇、ブレイクしている敵に対して攻撃した時、自身のスピードアップ(2ターン)。"
+            },
+            {
+                "move_name": "バウンスファング",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra23",
+                "user": "呉キリカ",
+                "description": "★5キオク「ヴァンパイアファング」の戦闘スキル。爪を振り上げて敵単体に自身の防御力に依存した闇属性ダメージを与え、味方全体に発動者の防御力数割+一定量のバリアを付与(3ターン)、バリアの耐久力数割のダメージを与える反射を付与(3ターン)。"
+            },
+            {
+                "move_name": "バルダメント・フォルティッシモ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra15",
+                "user": "美樹さやか",
+                "description": "同名の★5キオクの必殺技。突撃して斬りかかり、最後は空中から真下に突撃して爆発を起こし、敵単体に自身の防御力に依存した水属性ダメージを与える。自身の魔力が5以上の時、味方全体に必殺技で与えるダメージアップを付与(2ターン)。魔力が5から1増えるごとに増加量は2%ずつ上昇する(最大10%)"
+            },
+            {
+                "move_name": "フレッチャ・ルーチェ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra1",
+                "user": "環いろは",
+                "description": "★5キオク「ストラーダ・フトゥーロ」の戦闘スキル。上空からクロスボウを射撃して敵単体に光属性ダメージを与え、自身のクリティカル率アップ(2ターン)。"
+            },
+            {
+                "move_name": "フロウイング・スラスト",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra2",
+                "user": "七海やちよ",
+                "description": "★5キオク「アブソリュート・レイン」の戦闘スキル。槍を構えて一直線上に突撃して敵単体に水属性ダメージを与え、自身の与えるダメージとクリティカル率アップ(1ターン)。"
+            },
+            {
                 "move_name": "プミリラズクムルシャワー",
                 "url": "https://hissatuwaza.kill.jp/setume/mirakuruaroha.htm#mirakuruaroha2",
                 "user": "ミラクルあろは＆真広",
                 "description": "第7話初登場。\n互いのステッキを同期させて敵を浄化させる。\nめちゃくちゃ言いづらい名前と評されている。"
             },
             {
+                "move_name": "ペネトランスサジッタ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra9",
+                "user": "鹿目まどか",
+                "description": "★5キオク「ルクス☆マギカ」の戦闘スキル。弓を上空に射り振り注ぐことで敵単体に光属性ダメージを与え、隣接する敵にも少し弱い威力の光属性ダメージを与える。自身のブレイクゲージ削減量上昇(2ターン)。"
+            },
+            {
                 "move_name": "ミラクル・シャワー",
                 "url": "https://hissatuwaza.kill.jp/setume/mirakuruaroha.htm#mirakuruaroha1",
                 "user": "ミラクルあろは",
                 "description": "第1話初登場。\nプリティー・ビューティー・キューティー・ロッドを\nを闇の相手を浄化させる。\n発動までのポーズが異様に長い。"
+            },
+            {
+                "move_name": "モルゲンステルン",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra7",
+                "user": "二葉さな",
+                "description": "★5キオク「フォルターゲフェングニス」の戦闘スキル。盾の中からスパイクを発射して敵単体に木属性ダメージを与え、味方全体に発動者の防御力の数割+一定量のバリアを付与(2ターン)。"
+            },
+            {
+                "move_name": "ライジングスマッシュ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra5",
+                "user": "深月フェリシア",
+                "description": "★5キオク「ウルトラグレートビッグハンマー」の戦闘スキル。ハンマーでなぎ払って敵単体に闇属性ダメージを与えつつ確率で気絶(1ターン)を付与し、自身のスピードをアップ(1ターン)。"
+            },
+            {
+                "move_name": "リンクスヒーリング",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra24",
+                "user": "千歳ゆま",
+                "description": "★4キオク「リンクスインパクト」の戦闘スキル。武器を振り上げ、味方単体と隣接する味方のHPを発動者のHP数割+一定量回復し、全状態異常を解除する。"
+            },
+            {
+                "move_name": "ルクス☆マギカ",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra10",
+                "user": "鹿目まどか",
+                "description": "同名の★5キオクの必殺技。魔法陣に弓を撃つことで魔法陣から極太のレーザーが発射され、敵全体に光属性ダメージを与える。"
+            },
+            {
+                "move_name": "手榴弾投擲",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra17",
+                "user": "暁美ほむら",
+                "description": "★5キオク「ミサイルによる集中砲火」の戦闘スキル。敵単体に闇属性ダメージを与え、自身の与えるダメージアップ(1ターン)。"
+            },
+            {
+                "move_name": "旋風炎舞",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra3",
+                "user": "由比鶴乃",
+                "description": "★5キオク「炎扇斬舞」の戦闘スキル。炎を纏った扇でX字状に切り裂き敵単体に火属性ダメージを与え、隣接する敵にも少し弱い火属性ダメージを与える。味方全体の攻撃力とクリティカル率アップ(1ターン)。"
+            },
+            {
+                "move_name": "時間停止攻撃",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra19",
+                "user": "暁美ほむら",
+                "description": "同名の★5キオクの必殺技。時間を止め、ゴルフクラブで何度も殴ったあと、時間を動かすことであらかじめ設置した爆弾を爆発させ、敵単体に無属性ダメージを与え、味方全体の必殺技で与えるダメージアップ(2ターン)。"
+            },
+            {
+                "move_name": "紅蓮の槍",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra16",
+                "user": "佐倉杏子",
+                "description": "★5キオク「盟神抉槍」の戦闘スキル。空中から槍を構えて刺すことで敵単体に火属性ダメージを与え、ブレイクしてない敵を攻撃した時自身のスピードを、ブレイクしてる敵を攻撃した時自身の攻撃力を上げる(2ターン)。"
+            },
+            {
+                "move_name": "自作爆弾投擲",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra18",
+                "user": "暁美ほむら",
+                "description": "★5キオク「時間停止攻撃」の戦闘スキル。敵単体に無属性ダメージを与え、味方全体の行動順を上げる。"
+            },
+            {
+                "move_name": "魂の磨き大連弾",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra6",
+                "user": "深月フェリシア",
+                "description": "イベント「ホテルプールの危機を救え！プール掃除編」で使用。いろは曰く「目にも止まらないブラシの勢い」で、やちよの指摘によると手数が多いが少し手間がかかっているとのこと。後に鶴乃の磨き残しを処理する事に。"
+            },
+            {
+                "move_name": "魔法のケーキドーム",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra21",
+                "user": "百江なぎさ",
+                "description": "同名の★5キオクの必殺技。手に持ったドームに敵を吸い込み、食べることで爆発を起こし、敵全体に光属性ダメージを与え、味方全体のHPを発動者のHP数割+一定量回復。更に追撃&反撃で与えるダメージアップ(2ターン)を付与し、自身は追撃を発動する。"
             }
         ]
     },
@@ -49353,6 +49497,12 @@
         "series_name": "魔男のイチ",
         "series_url": "https://hissatuwaza.kill.jp/setume/madannoko.htm",
         "moves": [
+            {
+                "move_name": "ちょっぴり貫穿(ラズド)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko53",
+                "user": "デスカラス",
+                "description": "第88話初登場。魔法卓球(マジキュー)という競技で使用されたもの。\n今回は魔法を使ってはいけないルールということなので、\n相手にバレないようにして少しだけ球に「貫通(ラズド)」の魔法を\n込めている。本人曰く必殺。"
+            },
             {
                 "move_name": "イチ式ミナカタ三枚下ろし",
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko8",

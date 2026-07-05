@@ -21226,6 +21226,12 @@
                 "description": "第3話初登場。風属性の攻撃魔法で、風の刃を飛ばして敵を切り刻む。(オーパーツさんより)"
             },
             {
+                "move_name": "クリスタルランサー",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku30",
+                "user": "カエデ・タマモ",
+                "description": "コミカライズ版第28話初登場。水をトゲ状にし硬くして敵を突き刺す。(オーパーツさんより)"
+            },
+            {
                 "move_name": "ストライクアックス",
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku18",
                 "user": "カエデ・タマモ",
@@ -21256,16 +21262,34 @@
                 "description": "コミカライズ版のみ。第16話初登場。両手に膨大な魔力を集めて放出する火属性の攻撃魔法。(オーパーツさんより)"
             },
             {
+                "move_name": "バーストスフィア",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku27",
+                "user": "リサ",
+                "description": "コミカライズ版第27話初登場。炎属性の攻撃魔法で巨大で高威力な火球を飛ばす魔法だが、魔力消費が大きく連発できない。\n(オーパーツさんより)"
+            },
+            {
                 "move_name": "フラワーブリザード",
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku11",
                 "user": "カエデ・タマモ",
                 "description": "第3話初登場。氷属性の攻撃魔法で、敵を凍り漬けにしてその周囲に美しい氷の花を咲かせ一掃する。(オーパーツさんより)"
             },
             {
+                "move_name": "フレイムアローズ(原作小説版：フレイムブロー)",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku28",
+                "user": "リサ",
+                "description": "コミカライズ版第27話初登場。炎属性の攻撃魔法で槍状の矢を放ち、複数の敵に命中させられる全体攻撃魔法。なお原作小説版では「フレイムブロー」になっている。(オーパーツさんより)"
+            },
+            {
                 "move_name": "ブレイクハンマー",
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku23",
                 "user": "フラウ",
                 "description": "フラウのパワーと勢いでハンマーを振りかぶって攻撃する。(オーパーツさんより)"
+            },
+            {
+                "move_name": "マジックシールド",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku29",
+                "user": "男のエルフ(正式名称不明)",
+                "description": "コミカライズ版第27話初登場。ピラミッド状のバリアを出して一定時間魔法の攻撃を防ぐ。(オーパーツさんより)"
             },
             {
                 "move_name": "ライトニングボルト",
@@ -21284,6 +21308,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku24",
                 "user": "魔王の幹部(正式名称不明)",
                 "description": "第6話初登場。多数の爆弾状のエネルギーを出し大爆発を起こさせる。(オーパーツさんより)"
+            },
+            {
+                "move_name": "ロールスラスト",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku32",
+                "user": "マリアンヌ",
+                "description": "コミカライズ版第31.5話初登場。螺旋上の剣圧を飛ばす。(オーパーツさんより)"
+            },
+            {
+                "move_name": "広範囲氷結ブレス",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku31",
+                "user": "ホワイトゲーター",
+                "description": "コミカライズ版第29話初登場。口から強い冷気を光線のように吐く。これはトールが考えた技。(オーパーツさんより)"
             },
             {
                 "move_name": "誘惑の魔眼",

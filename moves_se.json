@@ -27226,6 +27226,12 @@
                 "description": "その名の通り足からビームを出す技。（Sha-rakuさん投稿）"
             },
             {
+                "move_name": "あ砲",
+                "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii181",
+                "user": "じーさん",
+                "description": "校長に対抗するために両手から放ったエネルギー砲だが、実際はじゃんけんを出すだけの技。「パー」を出したため、「校長絶好調」で「チョキ」を出した校長に負けた。（Sha-rakuさんより）"
+            },
+            {
                 "move_name": "うんこまきちらし地獄",
                 "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii155",
                 "user": "じーさん",
@@ -27736,6 +27742,12 @@
                 "description": "便ブレードバーストという競技で使用された必殺技。\nソフトクリームの形をしたウンコを飛ばして攻撃をする。"
             },
             {
+                "move_name": "タイムワープ",
+                "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii182",
+                "user": "ゲベ",
+                "description": "テキトーな人間を過去や未来へ送ったり連れていける。理由は不明だが、これによりじーさんの祖父・ひーひーでんぢゃらすじーさんを過去から現代へ送っている。（Sha-rakuさんより）"
+            },
+            {
                 "move_name": "チョメんキック",
                 "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii28",
                 "user": "チョメんライダー",
@@ -28198,6 +28210,12 @@
                 "description": "Youtubeアニメで使用。ゲームのチーターを探知し、そこにワープできる。\n(拉麺二郎さんより)"
             },
             {
+                "move_name": "校長絶好調",
+                "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii183",
+                "user": "校長",
+                "description": "両手から放つエネルギー砲だが、実際はじゃんけんを出すだけの技。「チョキ」を出して「あ砲」で「パー」を出したじーさんに勝った。（Sha-rakuさんより）"
+            },
+            {
                 "move_name": "気のどくハリケーン",
                 "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii8",
                 "user": "じーさん",
@@ -28208,6 +28226,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii103",
                 "user": "校長",
                 "description": "謎のポージングを取ることによって敵を吹き飛ばす必殺技。"
+            },
+            {
+                "move_name": "熱闘オナラバズーカー",
+                "url": "https://hissatuwaza.kill.jp/setume/djijii.htm#djijii184",
+                "user": "じーさん",
+                "description": "温泉で体が温まったところで発動した技。ただの屁だが、じーさんに擬態した不老不死温泉を撃破している。\n（Sha-rakuさんより）"
             },
             {
                 "move_name": "犬",

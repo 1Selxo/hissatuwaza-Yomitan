@@ -31998,6 +31998,18 @@
         ]
     },
     {
+        "series_name": "戦えヒーローシャイニング",
+        "series_url": "https://hissatuwaza.kill.jp/setume/hero_shining.htm",
+        "moves": [
+            {
+                "move_name": "シャイニングパンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/hero_shining.htm#hero_shining1",
+                "user": "シャイニング",
+                "description": "技名がついているがただのパンチとも言える。\n本人は技名を言うのが恥ずかしいらしい。"
+            }
+        ]
+    },
+    {
         "series_name": "戦え！セブンガー",
         "series_url": "https://hissatuwaza.kill.jp/setume/sebunga-.htm",
         "moves": [

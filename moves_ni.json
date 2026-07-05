@@ -222,6 +222,36 @@
         ]
     },
     {
+        "series_name": "2年B組勇者デストロイヤーず",
+        "series_url": "https://hissatuwaza.kill.jp/setume/destroyers.htm",
+        "moves": [
+            {
+                "move_name": "だいじょうぶだ～",
+                "url": "https://hissatuwaza.kill.jp/setume/destroyers.htm#destroyers3",
+                "user": "九門開",
+                "description": "第8話初登場。\n他者が発したエネルギーを手のひらから吸収することができる。"
+            },
+            {
+                "move_name": "だっふんだ",
+                "url": "https://hissatuwaza.kill.jp/setume/destroyers.htm#destroyers4",
+                "user": "九門開",
+                "description": "第8話初登場。\n手のひらから自身の体内の物質を\nエネルギー化して発射することができる能力。\n調整が出来ず一度に一気に発射してしまうので、\n使用後は戦闘不能になってしまう。"
+            },
+            {
+                "move_name": "解き放つもの",
+                "url": "https://hissatuwaza.kill.jp/setume/destroyers.htm#destroyers2",
+                "user": "堀口功",
+                "description": "第8話初登場。\nポテチの袋を一撃で開けることができる能力。"
+            },
+            {
+                "move_name": "鋼鉄乙女(アイアンメイデン)",
+                "url": "https://hissatuwaza.kill.jp/setume/destroyers.htm#destroyers1",
+                "user": "水沼かおり",
+                "description": "第8話初登場。\n小指をぶつけた際に硬化させることができる能力。"
+            }
+        ]
+    },
+    {
         "series_name": "2年G組千坂千陽彼氏募集中",
         "series_url": "https://hissatuwaza.kill.jp/setume/2neng.htm",
         "moves": [
