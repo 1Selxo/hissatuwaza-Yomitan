@@ -9502,6 +9502,12 @@
                 "description": "第17話初登場。\nラビットフットから繰り出される空中からのカカト落としや飛び膝蹴り。"
             },
             {
+                "move_name": "一本桜",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurabachi27",
+                "user": "神楽",
+                "description": "合戦花形。\n対象を真上から一刀両断にする。"
+            },
+            {
                 "move_name": "乱れ桜",
                 "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai4",
                 "user": "神楽",
@@ -9602,6 +9608,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kagura.htm#kagura29",
                 "user": "",
                 "description": ""
+            },
+            {
+                "move_name": "逆さ富士",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurabachi28",
+                "user": "神楽",
+                "description": "合戦花形。\n後ろから弧を描くようにして斬りかかっている。"
             },
             {
                 "move_name": "雷犬太鼓",
@@ -11073,6 +11085,12 @@
         "series_name": "カノンマスター",
         "series_url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm",
         "moves": [
+            {
+                "move_name": "連(ツラナリ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster3",
+                "user": "バラト",
+                "description": "第3話初登場。風の詩「乱」を\n連続で繰り出して攻撃をしている。"
+            },
             {
                 "move_name": "風の詩「乱」",
                 "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster1",
@@ -37430,6 +37448,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato4",
                 "user": "クレハ",
                 "description": "第13話初登場。タコの触手のようなもので対象の細胞や組織を魔術で編み込んで治癒をおこなう魔術。"
+            },
+            {
+                "move_name": "風姿華伝(ふうしかでん)",
+                "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato5",
+                "user": "キナト＆テラス",
+                "description": "第22話初登場。連戯組手の舞。\n二人が手を握り同調してダンスをおこなうような感じで魔力を練ることで、\n身体能力をアップさせる。"
             },
             {
                 "move_name": "鬼換(オグル)",

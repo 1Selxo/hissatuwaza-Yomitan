@@ -38784,6 +38784,42 @@
         ]
     },
     {
+        "series_name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
+        "series_url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm",
+        "moves": [
+            {
+                "move_name": "「扉」「鞄」",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex2",
+                "user": "小寺ユズ",
+                "description": "アニメ版では第2話初登場。\n空間接続によって物品の収納や運搬をおこなう能力。"
+            },
+            {
+                "move_name": "暴食",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex5",
+                "user": "夜海トワ",
+                "description": "アニメ版では第2話初登場。\n禍々しい腕によって魔人の能力を収穫する。\n収穫した能力は使用可能で、作中では冷気を発している。"
+            },
+            {
+                "move_name": "蜘蛛",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex3",
+                "user": "相沢シオリ",
+                "description": "アニメ版では第2話初登場。蜘蛛の使役、糸の使役、薬物＆毒物を生成する能力。\n使用する糸は人体を簡単に切断可能。"
+            },
+            {
+                "move_name": "解錠",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex1",
+                "user": "新名アオイ(にいなあおい)",
+                "description": "アニメ版では第2話初登場。\n施錠の解除や結合部分の分解をすることが出来る能力。"
+            },
+            {
+                "move_name": "豪腕",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex4",
+                "user": "喜多森ユーナ",
+                "description": "アニメ版では第2話初登場。\n超身体強化、流体武装生成。\n腕などを肥大化させて攻撃をしたりしている。\n人体を消し飛ばしたり、車を吹き飛ばすほどのパワーがある。"
+            }
+        ]
+    },
+    {
         "series_name": "魔法少女リリカルなのは INNOCENT",
         "series_url": "https://hissatuwaza.kill.jp/setume/ririkarui.htm",
         "moves": [
@@ -49514,6 +49550,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko3",
                 "user": "",
                 "description": "第1話初登場。魔女たちが1000年かけても習得出来なかった伝説の超越特化魔法。\n要するに他の魔法を超強化することが出来る。\n習得してれば初心者が使用しても発動が可能だが、使用すると3日くらい寝込んでしまう。"
+            },
+            {
+                "move_name": "コート返し",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko54",
+                "user": "ボクスター",
+                "description": "第89話初登場。魔法卓球(マジキュー)にて使用。\n飛んできた球をラケットではなく着ているコートで打ち返す。"
             },
             {
                 "move_name": "スピードレイ",

@@ -21564,6 +21564,18 @@
         ]
     },
     {
+        "series_name": "アニマルシグナル",
+        "series_url": "https://hissatuwaza.kill.jp/setume/animalsignal.htm",
+        "moves": [
+            {
+                "move_name": "かわいいガード",
+                "url": "https://hissatuwaza.kill.jp/setume/animalsignal.htm#animalsignal1",
+                "user": "ツバサ",
+                "description": "第5話初登場。\nなんか可愛い動物のことを考えることによって\n痛みを散らしている。"
+            }
+        ]
+    },
+    {
         "series_name": "アニマルプレイ ギュラララ ガヴ",
         "series_url": "https://hissatuwaza.kill.jp/setume/gavu.htm",
         "moves": [
