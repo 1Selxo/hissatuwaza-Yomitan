@@ -13686,6 +13686,24 @@
         ]
     },
     {
+        "series_name": "アイボーイ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/iboy.htm",
+        "moves": [
+            {
+                "move_name": "愚(スクリーム)",
+                "url": "https://hissatuwaza.kill.jp/setume/iboy.htm#iboy1",
+                "user": "墓野璃子",
+                "description": "星辰魔術(アストラル・マジック)。\n触手のようなものを無数に伸ばして突いて攻撃をおこなっている。"
+            },
+            {
+                "move_name": "理(エメラルド)",
+                "url": "https://hissatuwaza.kill.jp/setume/iboy.htm#iboy2",
+                "user": "花瀬ケイゴ",
+                "description": "星辰魔術(アストラル・マジック)。\nおそらくエメラルドの鉱石のようなもので、武具を作り出している。"
+            }
+        ]
+    },
+    {
         "series_name": "アウトコード",
         "series_url": "https://hissatuwaza.kill.jp/setume/outcode.htm",
         "moves": [

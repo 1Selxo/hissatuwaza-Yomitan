@@ -13974,6 +13974,18 @@
         ]
     },
     {
+        "series_name": "ウルトラマンテオ",
+        "series_url": "https://hissatuwaza.kill.jp/setume/ultramanteo.htm",
+        "moves": [
+            {
+                "move_name": "テオシウム光線",
+                "url": "https://hissatuwaza.kill.jp/setume/ultramanteo.htm#ultramanteo1",
+                "user": "ウルトラマンテオ",
+                "description": "第1話初登場。\n両腕をL字にクロスするように構えて、そこから金色の\n光線を発射する必殺技。\n当初は技の反動で、発射した自身が後方へズルズルと移動してくほどである。"
+            }
+        ]
+    },
+    {
         "series_name": "ウルトラマンデッカー",
         "series_url": "https://hissatuwaza.kill.jp/setume/umandekka-.htm",
         "moves": [
