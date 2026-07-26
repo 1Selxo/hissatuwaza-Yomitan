@@ -49648,6 +49648,12 @@
                 "description": "第27話初登場。\n両手を叩くことによって、周囲に大きな音を\n発して幻惑させる。"
             },
             {
+                "move_name": "挟打(イプシロン)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko56",
+                "user": "衝(ハカリ)",
+                "description": "第91話初登場。\n両手で挟みこむことによって、対象を\n分解している。"
+            },
+            {
                 "move_name": "撃堕弔葬歌(イスカンダルマリア・カラス)",
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko50",
                 "user": "デスカラス",
@@ -49862,6 +49868,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko5",
                 "user": "イチ",
                 "description": "第5話初登場。雷狐の魔法。\n対象を大爆発させている。"
+            },
+            {
+                "move_name": "魔法装填・光線(マスカット・ダイヤ)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko55",
+                "user": "アマドロ・リボンキャンディ",
+                "description": "第91話初登場。\nガトリングガンから魔法の光線を発射して攻撃をしている。"
             }
         ]
     },

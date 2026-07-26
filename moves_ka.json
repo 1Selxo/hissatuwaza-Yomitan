@@ -11086,6 +11086,18 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm",
         "moves": [
             {
+                "move_name": "突",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster4",
+                "user": "ルガ",
+                "description": "第5話初登場。砂の槌。\n鎖の先端に刃がついた武器を振り回し、\n刃に砂をまとわせて槌のようにして伸ばす。"
+            },
+            {
+                "move_name": "粒斬(りゅうぎり)",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster5",
+                "user": "ルガ",
+                "description": "第5話初登場。砂の剣。\n鎖の先端に刃がついた武器を振り回し、\n刃に砂をまとわせて巨大な剣のようにして攻撃をする。"
+            },
+            {
                 "move_name": "連(ツラナリ)",
                 "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster3",
                 "user": "バラト",
