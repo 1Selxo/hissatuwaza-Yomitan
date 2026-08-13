@@ -9526,6 +9526,12 @@
                 "description": "第26話初登場。\n刀を横に払って繰り出す水墨流の技。\n遥か後方の大木を一刀両断にする威力がある。"
             },
             {
+                "move_name": "南無八幡(なむはちまん)",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai31",
+                "user": "",
+                "description": "弓を構えエネルギーをまとわせた強力な矢を繰り出している。"
+            },
+            {
                 "move_name": "夜天ノ華(やてんのはな)",
                 "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai28",
                 "user": "墨染百代",
@@ -9626,6 +9632,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai2",
                 "user": "雷人",
                 "description": "太鼓を叩くことによって、\n大蛇の形をした雷を飛ばして攻撃をする。"
+            },
+            {
+                "move_name": "雷轟八犬伝",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai32",
+                "user": "雷人",
+                "description": "大量の雷太鼓を叩くことによって、周囲に大量の巨大な雷犬を具現化させている。"
             },
             {
                 "move_name": "鮮血暴力(ブラッディ・ボルテクス)",
@@ -11085,6 +11097,24 @@
         "series_name": "カノンマスター",
         "series_url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm",
         "moves": [
+            {
+                "move_name": "六巻(リクマキ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanon8",
+                "user": "",
+                "description": "第8話初登場。風の杭。巨大な竜巻おを6本同時に発生させている。"
+            },
+            {
+                "move_name": "円(えん)",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanon7",
+                "user": "バラト",
+                "description": "第7話初登場。魔刃「風守の鉤爪」を使った風の筆。巨大な3枚刃のブーメランに風をまとわせて投げつけている。"
+            },
+            {
+                "move_name": "渦",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanon9",
+                "user": "",
+                "description": "第7話初登場。風の牢。巨大な風の檻の中に対象を閉じ込める。"
+            },
             {
                 "move_name": "突",
                 "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster4",
@@ -37444,10 +37474,22 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/kinato.htm",
         "moves": [
             {
+                "move_name": "刺雨(しぐれ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato26",
+                "user": "",
+                "description": "第26話初登場。腕の鋭い突起の部分による突き攻撃。"
+            },
+            {
                 "move_name": "時雨",
                 "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato3",
                 "user": "ジエン",
                 "description": "第12話初登場。暗雲から超大量の錐状のものを降らせて攻撃をおこなう。"
+            },
+            {
+                "move_name": "暴風音(テンペスト)",
+                "url": "https://hissatuwaza.kill.jp/setume/kinato.htm#kinato27",
+                "user": "",
+                "description": "第26話初登場。強力な風を繰り出す。"
             },
             {
                 "move_name": "織神(エクス・マキナ)",
@@ -43154,6 +43196,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu50",
                 "user": "ジーナ・グレイシス＆ラウロ・リベリオ",
                 "description": "第88話初登場。ジーナの「紅玉美晶(ルビー)」とラウロの「新星火球玉(ノヴァファイヤーボール)」を組み合わせた合体技。斬撃と共に大爆破を巻き起こしている。"
+            },
+            {
+                "move_name": "緊急脱出(エスケープ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu96",
+                "user": "アルバス",
+                "description": "第96話初登場。その場から一気に飛ぶように移動させることが出来る魔法。あらかじめ設定した位置まで飛ばすことが可能。"
             },
             {
                 "move_name": "翠玉風晶(エメラルド)",
@@ -55664,6 +55712,24 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kakugono.htm#kakugono24",
                 "user": "葉隠覚悟（零）",
                 "description": "強化外骨格の装備による技のひとつ。指先から強力な麻酔液を噴射し、相手を眠らせる。体重7トンの相手を、三日間眠らせる効果があるという。戦術鬼・破夢子に使ったが、すぐに起き上がってきた。 (ケケケさんより)"
+            }
+        ]
+    },
+    {
+        "series_name": "角醒ハンター オメガホーン",
+        "series_url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm",
+        "moves": [
+            {
+                "move_name": "斬斬舞(ぎりぎりまい)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn4",
+                "user": "波斬のギリコ",
+                "description": "第3話初登場。覚醒憑依状態の自身に斬角のパワーを宿した角獣覚醒器から大剣にパワーを宿し、斬撃を繰り出すことで斬角のエネルギーを飛ばして攻撃をする必角技。"
+            },
+            {
+                "move_name": "王炎火(おうえんか)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn3",
+                "user": "炎のシャウト",
+                "description": "第3話初登場。覚醒憑依状態の自身に炎角のパワーを宿した角獣覚醒器から右腕にパワーを宿しパンチを繰り出すことで炎角のエネルギーを飛ばして攻撃をする必角技。"
             }
         ]
     },

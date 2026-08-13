@@ -11224,6 +11224,12 @@
                 "description": "第170話初登場。\n「陽炎の一刺し(ミラージュスティンガー)」から\n繰り出される連続突き。\n武器の効果によって大量の残像が付与される。"
             },
             {
+                "move_name": "五感遮断(ブロッキング)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi245",
+                "user": "ガラハド",
+                "description": "第245話初登場。半径30mほどの相手の五感を奪うことが出来る魔力。"
+            },
+            {
                 "move_name": "付呪・天上の光(エンチャント・ヘブンズ・ライトニング)",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi27",
                 "user": "トリスタン",
@@ -11410,6 +11416,12 @@
                 "description": "第66話初登場。\n両手の腕から繰り出されるパンチの連打攻撃。"
             },
             {
+                "move_name": "携帯空間(キャリールーム)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi246",
+                "user": "ガウェイン",
+                "description": "第244話初登場。空間から手のひらサイズのものを取り出している。"
+            },
+            {
                 "move_name": "擬態(ミミクリィ)",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi50",
                 "user": "",
@@ -11444,6 +11456,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi35",
                 "user": "イゾルデ",
                 "description": "第74話初登場。\n相手を叩いた部分に対して、\n自身の魔力の「熱愛(ラブボム)」によって\n時間差で爆破させる。"
+            },
+            {
+                "move_name": "暗貫(あんかん)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi243",
+                "user": "ガラハド",
+                "description": "第243話初登場。相手の心臓を狙った刀による突きを繰り出している。"
             },
             {
                 "move_name": "暴走のハイエロファント",
@@ -11644,6 +11662,12 @@
                 "description": "第74話初登場。\n爆発を生み出すことが出来る魔力。"
             },
             {
+                "move_name": "爆拳(エキスプローシブ・ブロ－)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi244",
+                "user": "ガウェイン",
+                "description": "第243話初登場。拳をインパクトさせた瞬間に大爆発を巻き起こしている。"
+            },
+            {
                 "move_name": "爆炎弾(エクスプローシブ・ファイア)",
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi104",
                 "user": "ガウェイン",
@@ -11720,6 +11744,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi103",
                 "user": "",
                 "description": ""
+            },
+            {
+                "move_name": "絶気配(ゼロ・サイン)",
+                "url": "https://hissatuwaza.kill.jp/setume/4kisi.htm#4kisi247",
+                "user": "ランスロット",
+                "description": "第245話初登場。相手に自身の姿と気配を捉えられないようにする。"
             },
             {
                 "move_name": "美食家の涎(エピキュリアン・スレイバー)",

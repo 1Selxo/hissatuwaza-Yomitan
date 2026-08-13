@@ -10174,6 +10174,12 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/meipuri.htm",
         "moves": [
             {
+                "move_name": "きらめきタイム",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri8",
+                "user": "キュアエクレール",
+                "description": "第26話初登場。自身が光のようになって飛行＆閃光のように超高速移動をおこなっている。発動させ続けると自分の速さについていけずに目が回ってしまうという弱点がある。"
+            },
+            {
                 "move_name": "アルカナスターレイン",
                 "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri5",
                 "user": "キュアアルカナ・シャドウ",
@@ -10186,10 +10192,22 @@
                 "description": "第4話初登場。\n拳にエネルギーをまとわせて殴りつける必殺技。"
             },
             {
+                "move_name": "エクレールイリュージョン",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri10",
+                "user": "キュアエクレール",
+                "description": "第28話初登場。\n高速で移動をおこないまるで自身が大量にいるように見せることが出来る。"
+            },
+            {
                 "move_name": "プリキュアアンサーはなまるソード",
                 "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri6",
                 "user": "キュアアンサー",
                 "description": "第14話に初登場した必殺技。ポチタンから受け取ったマコトジュエルをプリキットミラールーペにセットする事で発動し、その先端から展開された巨大なすれ違い様に一閃して敵を浄化する。それと同時に刀身が砕け散るのが特徴である。\n「キュアっと解決！」"
+            },
+            {
+                "move_name": "プリキュアフライング・インフィニティ",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri9",
+                "user": "キュアエクレール",
+                "description": "第26話初登場。プリキットミラールーペにマコトジェルをセットすることで発動。超巨大なエネルギーの翼を展開させてから、それを飛ばして攻撃をする必殺技。"
             },
             {
                 "move_name": "プリキュアミスティックストライク",

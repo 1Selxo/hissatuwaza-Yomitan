@@ -6694,6 +6694,12 @@
                 "description": "スライディングした足が\n無数に分裂して見えるというスライディングタックル。"
             },
             {
+                "move_name": "キラーフィールズ",
+                "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:262",
+                "user": "",
+                "description": "アニメ版83話初登場。\n空中に上げたボールを二人が挟みこむように\n前後から蹴ることによって、エネルギー場が\n発生して敵プレイヤーの動きを封じる技。\n名称はメガネがかってにつけたものである。\nアニメ版では鬼道＆不動の合体技として登場している。"
+            },
+            {
                 "move_name": "キラーブレード",
                 "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:13",
                 "user": "",
@@ -6890,6 +6896,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:43",
                 "user": "",
                 "description": "ゴールポストに横から体当たりして\nゴールをずらしてシュートを防ごうとするキーパーの技。\n失敗すると顔面からポストに突っ込むだけでゴールは動かない。"
+            },
+            {
+                "move_name": "ゴー・トゥ・ヘブン",
+                "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:335",
+                "user": "",
+                "description": "蹴りと共に相手の\n足元から光の柱を噴出させて\nボールを奪う風属性のブロック技。"
             },
             {
                 "move_name": "ゴー・トゥ・ヘル",
@@ -7205,6 +7217,12 @@
             },
             {
                 "move_name": "セーフティプロテクト",
+                "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:111",
+                "user": "",
+                "description": "アニメ版29話初登場。背後に無数の盾を展開させて、\n相手のシュートを防ぐキーパーの必殺技。"
+            },
+            {
+                "move_name": "セーフティープロテクト",
                 "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:111",
                 "user": "",
                 "description": "アニメ版29話初登場。背後に無数の盾を展開させて、\n相手のシュートを防ぐキーパーの必殺技。"
@@ -7552,6 +7570,12 @@
                 "description": "3人がボールと共に宇宙空間まで飛びあがり、\n太陽の如く輝くボールを、3人のシュートと共に\n飛ばされる衝撃波によって、\nボールを飛ばして大爆発させる合体技。"
             },
             {
+                "move_name": "ノーエスケイプ",
+                "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma151",
+                "user": "",
+                "description": "アニメ版49話初登場。\n仲間が2人で地面を踏みつけることによって、\n地面を隆起させコースを作り、\nそのコースをもう一人がスライディングをして\n相手の逃げ場なくした状態で\nボールをカットする。"
+            },
+            {
                 "move_name": "ノーエスケープ",
                 "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma151",
                 "user": "",
@@ -7822,6 +7846,12 @@
                 "description": "アニメ版29話初登場。無数の紙のようなものを\n周囲に展開させてブロックをする技。"
             },
             {
+                "move_name": "ヘビーベイビー",
+                "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:179",
+                "user": "",
+                "description": "強力な重力のようなものを\n発生させてボールを沈ませる\nディフェンス技。"
+            },
+            {
                 "move_name": "ヘブンズタイム",
                 "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:85",
                 "user": "",
@@ -8084,6 +8114,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:136",
                 "user": "",
                 "description": "アニメ版40話初登場。\n足を大きく後方へあげて、\nバラの演出と共にシュートする\n必殺技。"
+            },
+            {
+                "move_name": "ロードローラタックル",
+                "url": "https://hissatuwaza.kill.jp/setume/inazuma11.htm#inazuma11:203",
+                "user": "",
+                "description": "ロードローラーの\n演出と共に相手を踏みつけて\nペラペラにしてしまうディフェンス技。"
             },
             {
                 "move_name": "ロードローラータックル",
@@ -8446,6 +8482,12 @@
                 "description": "アニメ版第2話初登場。\n鋭い動きと共にその軌道に線を走らせつつ相手を抜き去るドリブル。\n抜き去った相手を吹き飛ばしている。"
             },
             {
+                "move_name": "アグレッシブビート",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago01",
+                "user": "",
+                "description": "アニメ版第2話初登場。\n鋭い動きと共にその軌道に線を走らせつつ相手を抜き去るドリブル。\n抜き去った相手を吹き飛ばしている。"
+            },
+            {
                 "move_name": "アスタリスクロック",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago0139",
                 "user": "アスタ",
@@ -8794,6 +8836,12 @@
                 "description": "相手の体にボールを浮かび上がるようにぶつけてボールを奪うディフェンス技。"
             },
             {
+                "move_name": "ゴッドウィンド",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago0131",
+                "user": "",
+                "description": "腰を低く構えてから空中でボールを蹴ることで\n暴風を発生させながらシュートをする必殺技。"
+            },
+            {
                 "move_name": "ゴッドウインド",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago0131",
                 "user": "",
@@ -8932,6 +8980,12 @@
                 "description": "アニメ版7話初登場。\n紫電をまとわせたボールをシュートする必殺技。"
             },
             {
+                "move_name": "シュートコマンド06(プラズマボール)",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago011",
+                "user": "",
+                "description": "アニメ版7話初登場。\n紫電をまとわせたボールをシュートする必殺技。"
+            },
+            {
                 "move_name": "シュートコマンド07(ダブルショット)",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago010",
                 "user": "",
@@ -8939,6 +8993,12 @@
             },
             {
                 "move_name": "シュートコマンド08(ラブアロー)",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago040",
+                "user": "",
+                "description": "第16話初登場。\nカカトで空中に上げたボールを飛び上がってシュートをする。\n蹴った瞬間に巨大なハートを発生させてボールを飛ばすのが特徴。"
+            },
+            {
+                "move_name": "シュートコマンド08(ラブ・アロー)",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago040",
                 "user": "",
                 "description": "第16話初登場。\nカカトで空中に上げたボールを飛び上がってシュートをする。\n蹴った瞬間に巨大なハートを発生させてボールを飛ばすのが特徴。"
@@ -8974,6 +9034,12 @@
                 "description": "第16話初登場。\n化身「虚空の女神アテナ」を展開させ、\nアテナの二丁拳銃から銃から発せられた2色のエネルギー球を\nその身に受けてまじわったエネルギーのシュートを繰り出す必殺技。"
             },
             {
+                "move_name": "シュートコマンドK02(アテナ・アサルト)",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago038",
+                "user": "",
+                "description": "第16話初登場。\n化身「虚空の女神アテナ」を展開させ、\nアテナの二丁拳銃から銃から発せられた2色のエネルギー球を\nその身に受けてまじわったエネルギーのシュートを繰り出す必殺技。"
+            },
+            {
                 "move_name": "シュートコマンドK08(シャドウレッグ)",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago074",
                 "user": "",
@@ -8996,6 +9062,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago4",
                 "user": "",
                 "description": "アニメ版5話初登場。\n指で輪を作り相手を覗き込むことによって、\n相手のデータをチェックしてボールを奪うディフェンス技。"
+            },
+            {
+                "move_name": "シーフ・アイ",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago4",
+                "user": "",
+                "description": "アニメ版5話初登場。\n指で輪を作り相手を覗き込むことによって、\n相手のデータをチェックしてボールを奪うディフェンス技。"
+            },
+            {
+                "move_name": "ジャスティスウィング",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago93",
+                "user": "",
+                "description": "ゲーム版初登場。\n化身「魔神ペガサスアーク」を出しての必殺技で、\n空中に飛び上がって風渦巻くシュートを飛ばす。"
             },
             {
                 "move_name": "ジャスティスウイング",
@@ -9098,6 +9176,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago071",
                 "user": "",
                 "description": "火花を散らすようにスライディングしながらスパークさせて\n相手を吹き飛ばすドリブルの必殺技。"
+            },
+            {
+                "move_name": "スパークルウェイブ",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago067",
+                "user": "",
+                "description": "流れ星とボールの上に乗って滑空してから、\nそのままボールをシュートする必殺技。"
             },
             {
                 "move_name": "スパークルウェーブ",
@@ -9586,6 +9670,12 @@
                 "description": "ファイアトルネードを3人で繰り出す合体技。\n空中に飛び上がって2人が横に回転しながら左右から、最後の1人は縦に回転してから上から\n同時に放つ。"
             },
             {
+                "move_name": "ファルコ・ウィング",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago11",
+                "user": "",
+                "description": "アニメ版第10話初登場。\n化身「鳥人ファルコ」を出して使用する必殺シュートで、\n空中に飛び上がって空中のボールを足場に更に飛び上がり、\n上からカカト落としをするように蹴る。インパクトの瞬間に十字を切るような演出が見られる。"
+            },
+            {
                 "move_name": "ファルコ・ウイング",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago11",
                 "user": "",
@@ -9611,6 +9701,12 @@
             },
             {
                 "move_name": "フューチャーアイ",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago97",
+                "user": "",
+                "description": "ゲーム版初登場。\n相手の情報をデータ的に分析をおこない、\nそのデータにしたがったルートを走り抜き去るドリブル技。"
+            },
+            {
+                "move_name": "フューチャー・アイ",
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago97",
                 "user": "",
                 "description": "ゲーム版初登場。\n相手の情報をデータ的に分析をおこない、\nそのデータにしたがったルートを走り抜き去るドリブル技。"
@@ -9794,6 +9890,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago95",
                 "user": "",
                 "description": "ゲーム版初登場。\n相手の目の前でリフティングしながら相手の体にぶつけて\n浮かし、最後に回し蹴りを繰り出して吹き飛ばすオフェンス技。"
+            },
+            {
+                "move_name": "マッハウィンド",
+                "url": "https://hissatuwaza.kill.jp/setume/inazumago.htm#inazumago30",
+                "user": "",
+                "description": "アニメ版第17話初登場。\n俊足を使って前方にダッシュをおこない、\nエネルギーをまとわせたボールをシュートをする必殺技。"
             },
             {
                 "move_name": "マッハウインド",
@@ -10330,6 +10432,12 @@
                 "description": "アニメ版第25話初登場。\n巨大な全身甲冑の騎士がランスを投げる仕草と共に\nボールをシュートする必殺技。\nボールが投げられたランスのように飛んでいく。"
             },
             {
+                "move_name": "キングス・ランス",
+                "url": "https://hissatuwaza.kill.jp/setume/inairea.htm#inairea55",
+                "user": "",
+                "description": "アニメ版第25話初登場。\n巨大な全身甲冑の騎士がランスを投げる仕草と共に\nボールをシュートする必殺技。\nボールが投げられたランスのように飛んでいく。"
+            },
+            {
                 "move_name": "クライシスゾーン",
                 "url": "https://hissatuwaza.kill.jp/setume/inairea.htm#inairea20",
                 "user": "",
@@ -10448,6 +10556,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/inairea.htm#inairea57",
                 "user": "",
                 "description": "アニメ版の最終話初登場。\nその名の通り空を歩くことができる必殺技。\n正確にいえば空を跳ねるようにしてドリブルをおこなっている。"
+            },
+            {
+                "move_name": "スパークウィンド",
+                "url": "https://hissatuwaza.kill.jp/setume/inairea.htm#inairea18",
+                "user": "",
+                "description": "アニメ版第12話初登場。\nボールをドリブルしながら蹴り続けることによってボールに電気を\n溜め、さらに竜巻を発生させディフェンスを吹き飛ばすオフェンス技。"
             },
             {
                 "move_name": "スパークウインド",
@@ -10691,6 +10805,12 @@
             },
             {
                 "move_name": "ブルースターダスト",
+                "url": "https://hissatuwaza.kill.jp/setume/inairea.htm#inairea059",
+                "user": "",
+                "description": "アニメ版第36話初登場。\n前方に大量の青く光るスターダストを飛ばして、\n相手の目をくらましてその隙に抜き去るドリブルの必殺技。"
+            },
+            {
+                "move_name": "ブルー・スターダスト",
                 "url": "https://hissatuwaza.kill.jp/setume/inairea.htm#inairea059",
                 "user": "",
                 "description": "アニメ版第36話初登場。\n前方に大量の青く光るスターダストを飛ばして、\n相手の目をくらましてその隙に抜き去るドリブルの必殺技。"

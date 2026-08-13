@@ -1102,10 +1102,76 @@
                 "description": "第53話初登場。\n斬撃の初速に令力を集中して繰り出す必殺技。"
             },
             {
+                "move_name": "一謄(うつばみ)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon156",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。周りを大きく薙ぎ払うような斬撃。"
+            },
+            {
+                "move_name": "七后(しちごう)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon163",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。"
+            },
+            {
+                "move_name": "三國(ぞうこく)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon159",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。刀による素早い三連撃を繰り出している。"
+            },
+            {
+                "move_name": "九女(ここのうるき)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon165",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。刀の腹の部分を噛み、そこから刀を払うことによって広範囲に斬撃を飛ばして攻撃をしている。"
+            },
+            {
+                "move_name": "二鸞(つがすずみ)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon158",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。交差するような斬撃を繰り出す。"
+            },
+            {
+                "move_name": "五(がりょう)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon161",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。一撃で大きな斬撃を繰り出している。"
+            },
+            {
+                "move_name": "八歴(ばつれき)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon164",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。弧を描くような斬撃を8本ほど繰り出している。"
+            },
+            {
+                "move_name": "六壬(りくじん)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon162",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。"
+            },
+            {
                 "move_name": "労役(アフターダーク)",
                 "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon5",
                 "user": "鵺",
                 "description": "第61話初登場。第6鏖封儀祭祀刀「 祁友の聯刀（ぎゆうのれんとう）」を駆使した攻撃。\n異空間から繰り出される斬撃。"
+            },
+            {
+                "move_name": "十一畢(じゅういちひつ)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon157",
+                "user": "夜行",
+                "description": "第157話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。刀を180°の角度に振るっている。"
+            },
+            {
+                "move_name": "十儀(とおぎ)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon166",
+                "user": "夜行",
+                "description": "第157話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。相手の全方位から襲いかかるような斬撃を連続で繰り出している。"
+            },
+            {
+                "move_name": "四勾(よつのかぎ)",
+                "url": "https://hissatuwaza.kill.jp/setume/nueon.htm#nueon160",
+                "user": "夜行",
+                "description": "第156話初登場。鬼戸流十二召爪(たまおどりゅうとうじゅつじゅうにしょうそう)。「井」の字状に対象を切り裂く。"
             },
             {
                 "move_name": "夜営祭(ブラッドレイ)",

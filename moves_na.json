@@ -15180,6 +15180,18 @@
         ]
     },
     {
+        "series_name": "七不思議先輩と鉄人くん",
+        "series_url": "https://hissatuwaza.kill.jp/setume/tetsujin.htm",
+        "moves": [
+            {
+                "move_name": "荷電粒子除霊パンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/tetsujin.htm#tetsujin1",
+                "user": "出雲鉄人",
+                "description": "荷電粒子をまとったパンチ。これによって幽体を殴って除霊させることが可能になる。"
+            }
+        ]
+    },
+    {
         "series_name": "七人ライダー最後の大決戦",
         "series_url": "https://hissatuwaza.kill.jp/setume/7ninraida.htm",
         "moves": [

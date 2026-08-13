@@ -18354,6 +18354,18 @@
         ]
     },
     {
+        "series_name": "空想科学まんが 異能力キャラを召喚してみたた！",
+        "series_url": "https://hissatuwaza.kill.jp/setume/kusokagaku.htm",
+        "moves": [
+            {
+                "move_name": "神武流奥義 百裂パンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/kusokagaku.htm#kusokagaku1",
+                "user": "百裂パンチを繰り出す戦士",
+                "description": "一瞬で百発のパンチを繰り出す。直径四メートルほどもある岩を砕くほどの威力があるが、実は最初の一発で砕いていて残り九十九発は空振りだった。(少不さにょり)"
+            }
+        ]
+    },
+    {
         "series_name": "空想科学世界ガリバーボーイ",
         "series_url": "https://hissatuwaza.kill.jp/setume/garibaboy.htm",
         "moves": [
@@ -20008,10 +20020,28 @@
                 "description": "第21話初登場。空気のベクトルを操作して\n周囲のものを竜巻のごとくぶん回す。"
             },
             {
+                "move_name": "レギオン・レイン",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki54",
+                "user": "ウェンティ・ノア・フライハイト",
+                "description": "第54話初登場。ベクトル操作によって大量の樹木を一斉に飛ばして攻撃をしている。"
+            },
+            {
+                "move_name": "創造者(ジ・アーキテクター)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki56",
+                "user": "パスカルノート",
+                "description": "第54話初登場。描いたもの実際に権限させることが出来る権能。"
+            },
+            {
                 "move_name": "天凱聖章",
                 "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno9",
                 "user": "アザカ・ハルモニエ",
                 "description": "第29話初登場。\n相手の攻撃を受け付けないという能力。\n回数制限もあるが、120回あるというかなりのチート性能。"
+            },
+            {
+                "move_name": "極光抱擁(リュルティム・リュミエール)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki55",
+                "user": "サハリエール",
+                "description": "第54話初登場。手から発する光線によってあらゆる現象を消し去ってしまうという。"
             },
             {
                 "move_name": "死を降らす積乱雲(ロストクラウドスコール)",
