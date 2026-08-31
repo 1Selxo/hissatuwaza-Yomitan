@@ -7530,6 +7530,24 @@
         ]
     },
     {
+        "series_name": "ケントゥリア",
+        "series_url": "https://hissatuwaza.kill.jp/setume/kenturia.htm",
+        "moves": [
+            {
+                "move_name": "呪貌(じゅぼう)",
+                "url": "https://hissatuwaza.kill.jp/setume/kenturia.htm#kenturia2",
+                "user": "呪貌",
+                "description": "第95話初登場。\n自身の顔を10秒を超えて視認したものを死に至らしめる。\n見た時間によって段階があり、1,2秒で鼻血や吐血や目眩、動悸などによる身体低下、\n3〜5秒で複数の内臓破裂、四肢の壊死、大量出血、精神錯乱、視覚以外の五感の低下、\n6〜8で意識混濁、全身の骨の歪曲＆骨折、視覚以外の五感の喪失となっている。"
+            },
+            {
+                "move_name": "罪の炎",
+                "url": "https://hissatuwaza.kill.jp/setume/kenturia.htm#kenturia1",
+                "user": "ハーラー",
+                "description": "第62話初登場。\n口から吐き出す炎による攻撃。\n相手が犯した罪が大きいほど火力がアップする。\n相手が一人を殺してた場合、その相手を殺せるほどの火力となり\n相手が100人殺してた場合は一度に100人を殺せるほどの火力となるらしい。"
+            }
+        ]
+    },
+    {
         "series_name": "ケータイ☆プリンセス",
         "series_url": "https://hissatuwaza.kill.jp/setume/ke-taip.htm",
         "moves": [

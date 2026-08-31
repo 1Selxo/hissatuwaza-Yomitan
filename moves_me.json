@@ -10180,6 +10180,12 @@
                 "description": "第26話初登場。自身が光のようになって飛行＆閃光のように超高速移動をおこなっている。発動させ続けると自分の速さについていけずに目が回ってしまうという弱点がある。"
             },
             {
+                "move_name": "アルカナスターシャイン",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri13",
+                "user": "キュアアルカナ",
+                "description": "アニメ版第31話初登場。\nシャインアルカナロッドから繰り出される\n複数の光の光線。\nアルカナスターレインのキュアアルカナバージョン。"
+            },
+            {
                 "move_name": "アルカナスターレイン",
                 "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri5",
                 "user": "キュアアルカナ・シャドウ",
@@ -10202,6 +10208,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri6",
                 "user": "キュアアンサー",
                 "description": "第14話に初登場した必殺技。ポチタンから受け取ったマコトジュエルをプリキットミラールーペにセットする事で発動し、その先端から展開された巨大なすれ違い様に一閃して敵を浄化する。それと同時に刀身が砕け散るのが特徴である。\n「キュアっと解決！」"
+            },
+            {
+                "move_name": "プリキュアスターディテクティブ",
+                "url": "https://hissatuwaza.kill.jp/setume/meipuri.htm#meipuri14",
+                "user": "キュアアルカナ＆キュアアンサー＆キュアミスティック＆キュアエクレール",
+                "description": "アニメ版第31話初登場。\nシャインアルカナロッドを4人が構えて、\nそこから光線が発射され絡み合って飛んでいく。"
             },
             {
                 "move_name": "プリキュアフライング・インフィニティ",

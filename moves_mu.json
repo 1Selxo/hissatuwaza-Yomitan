@@ -4320,6 +4320,30 @@
         ]
     },
     {
+        "series_name": "無才の召喚士",
+        "series_url": "https://hissatuwaza.kill.jp/setume/musainosyoukansi.htm",
+        "moves": [
+            {
+                "move_name": "岩大猩々溜撃(イワゴリラタメパンチ)",
+                "url": "https://hissatuwaza.kill.jp/setume/musainosyoukansi.htm#musainosyoukansi1",
+                "user": "岩都あまね",
+                "description": "第7話初登場。\n溜めてからパンチを繰り出す。\n物凄くパンチを出すまでが遅い。"
+            },
+            {
+                "move_name": "炎狼連牙",
+                "url": "https://hissatuwaza.kill.jp/setume/musainosyoukansi.htm#musainosyoukansi2",
+                "user": "火狩夜高",
+                "description": "第7話初登場。\n炎の幻獣と共に自身が手斧を使って\n繰り出す連撃技。"
+            },
+            {
+                "move_name": "風鹿連断",
+                "url": "https://hissatuwaza.kill.jp/setume/musainosyoukansi.htm#musainosyoukansi3",
+                "user": "風宮小春",
+                "description": "第8話初登場。幻獣である鹿が風の角を作り出して、\nその角によって対象をバラバラに切断してしまう。"
+            }
+        ]
+    },
+    {
         "series_name": "無敵ロボ トライダーG7",
         "series_url": "https://hissatuwaza.kill.jp/setume/toraidag7.htm",
         "moves": [

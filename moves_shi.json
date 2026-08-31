@@ -7378,6 +7378,12 @@
                 "description": "第62話初登場。\n巨大な泡を飛ばして攻撃をする忍法。"
             },
             {
+                "move_name": "旋風(せんぷう)",
+                "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto24",
+                "user": "キジバト",
+                "description": "手のひらから空気を吸い込み、全話部分の\n排気口から吸い込んだ空気を排出する血界。"
+            },
+            {
                 "move_name": "水絡(ミズカラ)",
                 "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto12",
                 "user": "コノハ",
@@ -7418,6 +7424,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto4",
                 "user": "ミズ",
                 "description": "第48話初登場。\n自身の体を硬化させることが出来る血界。"
+            },
+            {
+                "move_name": "肉葩腫(はれもの)",
+                "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto23",
+                "user": "サザンカ",
+                "description": "第94話初登場。\n種を弾丸のようにして飛ばしている。\n命中させた種はツタとなって相手に絡みつく。"
             },
             {
                 "move_name": "蒸煙(じょうえん)",
@@ -46426,6 +46438,18 @@
                 "description": "第89話初登場。\nネット際に構えて、飛んでくる球をネット際で対応する鉄壁の技。\nさすがにロブまでは対応はできない。"
             },
             {
+                "move_name": "ワープ",
+                "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis96",
+                "user": "越智月光",
+                "description": "第379話初登場。\nマッハを超えたサーブ。"
+            },
+            {
+                "move_name": "三寸鬼瓦(さんずんおにがわら)",
+                "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis98",
+                "user": "大曲竜次",
+                "description": "第381話初登場。\n二刀流のラケットで地面を叩き空気を振動させることによって、\nボールの位置を把握する。\n種子島の「巳滅無(いめつむ)」に対しての返し技。"
+            },
+            {
                 "move_name": "不会無(ふえむ)",
                 "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis78",
                 "user": "種子島修二",
@@ -46480,6 +46504,12 @@
                 "description": "第207話初登場。風の攻撃技（クリティカルウィンド）。\nより早く打球の軌跡＆スピードを見ることによって、脳から筋肉の伝達速度をアップさせる。\nこれによって周囲がスローモーションのように見えるようになる。"
             },
             {
+                "move_name": "具現化(マテリアリサール)",
+                "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis100",
+                "user": "ロミオ・フェルナンデス",
+                "description": "第391話初登場。\n対戦相手の畏怖の念を持った人間を具現化させるというもの。\n相手はその具現化させられた相手と戦わされることとなる。\nそれ故に相手に畏怖を克服させ、逆にパワーアップさせてしまう可能性もある。"
+            },
+            {
                 "move_name": "切腹",
                 "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis28",
                 "user": "遠野篤京",
@@ -46490,6 +46520,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis72",
                 "user": "デューク渡邊＆仁王雅治",
                 "description": "第294話初登場。\nデュークの「破壊(デストロイ)」とシャルパンティエの「愛(ラムール)」の\n能力(スキル)が能力共鳴(ハウリング)したことによって発動したもの。\n消えたボールが相手コートの方向で再び現れるというもの。"
+            },
+            {
+                "move_name": "双竜掻き落とし",
+                "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis99",
+                "user": "大曲竜次",
+                "description": "第381話初登場。\n二刀流のラケットを駆使することによって、\n滞空時間の長いロブにも対応することが出来る。"
             },
             {
                 "move_name": "失意への遁走曲(フーガ)",
@@ -46588,6 +46624,12 @@
                 "description": "第351話初登場。\n手塚の「ゾーン」と自身の「渦巻きの洗礼(ヴィルベルタオフェ)」によって\n一人で共鳴能力(ハウリング)を起こして繰り出す必殺技。\nコートに無数の竜巻を発生させて、相手のショットを倍増して返したり、\n強制的にコート外にアウトにさせたりすることが出来る。"
             },
             {
+                "move_name": "狐火球(きつねびだま)",
+                "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis97",
+                "user": "不二周助",
+                "description": "第379話初登場。風の攻撃技(クリティカルウィンド)の1つ。\n一見ドロップボールのようなものだが、\n相手のラケットの少しの風圧でもボールが揺れて相手に\n打ち返させない。"
+            },
+            {
                 "move_name": "猛虎飯",
                 "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis15",
                 "user": "原哲也",
@@ -46628,6 +46670,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis43",
                 "user": "徳川カズヤ＆幸村精市",
                 "description": "名称は第165話初登場。徳川の「予感」と幸村の「五感剥奪」が能力共鳴(ハウリング)することによって生まれた能力。\n一瞬先の未来が見えるようになる。"
+            },
+            {
+                "move_name": "絶対零度の世界(アブソリュートゼロ)",
+                "url": "https://hissatuwaza.kill.jp/setume/stennis.htm#stennis101",
+                "user": "跡部景吾",
+                "description": "第403話初登場。「氷の皇帝(エンペラー)」を進化させたもの。\n周りには雪が降ってるかのように見えるらしい。"
             },
             {
                 "move_name": "網増々の術(あみましましのじゅつ)",

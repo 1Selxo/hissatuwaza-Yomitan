@@ -38794,6 +38794,12 @@
                 "description": "アニメ版では第2話初登場。\n空間接続によって物品の収納や運搬をおこなう能力。"
             },
             {
+                "move_name": "フォーリングスターズ",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex7",
+                "user": "高町なのは",
+                "description": "第7話初登場。\nレイジングハートから発射した魔力砲が超大量に\n別れて対象を一斉に狙い撃つ。\nあらかじめマルチロックオンすることによって的確に撃ち抜いている。"
+            },
+            {
                 "move_name": "暴食",
                 "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex5",
                 "user": "夜海トワ",
@@ -49742,6 +49748,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko40",
                 "user": "幾(きざし)",
                 "description": "第54話初登場。\n水球を生み出し、それを爆弾のように爆発させている。"
+            },
+            {
+                "move_name": "爪裂蹴り(トゥーキック)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko54",
+                "user": "ボクスター",
+                "description": "第89話初登場。魔法卓球(マジキュー)にて使用。\n飛んできた球をラケットではなく着ているコートで打ち返す。"
             },
             {
                 "move_name": "発火(ドゥマッチ)",

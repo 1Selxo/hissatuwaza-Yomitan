@@ -16782,6 +16782,42 @@
         ]
     },
     {
+        "series_name": "千仙戦記",
+        "series_url": "https://hissatuwaza.kill.jp/setume/sennsensenki.htm",
+        "moves": [
+            {
+                "move_name": "胡蝶神隠郷(こちょういんおんきょう)",
+                "url": "https://hissatuwaza.kill.jp/setume/sennsensenki.htm#sennsensenki3",
+                "user": "",
+                "description": ""
+            },
+            {
+                "move_name": "英雄王哥哥(ロードガガ)",
+                "url": "https://hissatuwaza.kill.jp/setume/sennsensenki.htm#sennsensenki5",
+                "user": "",
+                "description": ""
+            },
+            {
+                "move_name": "蒼穹紅蓮",
+                "url": "https://hissatuwaza.kill.jp/setume/sennsensenki.htm#sennsensenki4",
+                "user": "",
+                "description": ""
+            },
+            {
+                "move_name": "霹靂戯貧(ヘキレキギタン)",
+                "url": "https://hissatuwaza.kill.jp/setume/sennsensenki.htm#sennsensenki1",
+                "user": "",
+                "description": ""
+            },
+            {
+                "move_name": "鱶攫深爪(ショウカクシンソウ)",
+                "url": "https://hissatuwaza.kill.jp/setume/sennsensenki.htm#sennsensenki2",
+                "user": "",
+                "description": ""
+            }
+        ]
+    },
+    {
         "series_name": "千年戦争アイギス",
         "series_url": "https://hissatuwaza.kill.jp/setume/1000aigisu.htm",
         "moves": [

@@ -19996,6 +19996,12 @@
                 "description": "相手の嘘を見破ることが出来る能力。"
             },
             {
+                "move_name": "カタストロフアルマゲドン",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki62",
+                "user": "サハリエール",
+                "description": "第55話初登場。\n巨大隕石さえも一瞬で消し去る光線を眼から\n発射している。"
+            },
+            {
                 "move_name": "クー・ドゥ・ブランシュリュミエール",
                 "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno11",
                 "user": "",
@@ -20006,6 +20012,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno2",
                 "user": "エイブラハム",
                 "description": "第21話初登場。\n大量のトランプを飛ばして、\n爆破させる。"
+            },
+            {
+                "move_name": "ニャルラトテップの指先",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki60",
+                "user": "イェルクナハト・フィンステルニス",
+                "description": "第55話初登場。\n鋭い爪の巨大な指を召喚して攻撃をする。\n無限に出すことが可能。"
             },
             {
                 "move_name": "ビーストファング",
@@ -20020,10 +20032,28 @@
                 "description": "第21話初登場。空気のベクトルを操作して\n周囲のものを竜巻のごとくぶん回す。"
             },
             {
+                "move_name": "リフレクシオディフレクト",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki59",
+                "user": "ウェンティ・ノア・フライハイト",
+                "description": "第55話初登場。\n相手の大量の飛び道具による攻撃をベクトル操作によって、\n相手に跳ね返している。"
+            },
+            {
                 "move_name": "レギオン・レイン",
                 "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki54",
                 "user": "ウェンティ・ノア・フライハイト",
                 "description": "第54話初登場。ベクトル操作によって大量の樹木を一斉に飛ばして攻撃をしている。"
+            },
+            {
+                "move_name": "一掃奮闘排斥我絶(いっそうはんとうはいせきがぜつ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki57",
+                "user": "ブリギッド・シャッツ",
+                "description": "第55話初登場。\n斬撃で超巨大な質量の\nものでも簡単に一刀両断にしている。"
+            },
+            {
+                "move_name": "刻操者(タイムリバインダー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki61",
+                "user": "",
+                "description": "第55話初登場。\n視界に入ったものの未来を視ることが出来る権能。\n先の未来を視るほど確実性はなくなるらしい。\n戦闘での実用性となると十数秒が限度らしい。"
             },
             {
                 "move_name": "創造者(ジ・アーキテクター)",
@@ -20036,6 +20066,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kokugetuno9",
                 "user": "アザカ・ハルモニエ",
                 "description": "第29話初登場。\n相手の攻撃を受け付けないという能力。\n回数制限もあるが、120回あるというかなりのチート性能。"
+            },
+            {
+                "move_name": "月月火水木金金(げつげつかすいもくきんきん)",
+                "url": "https://hissatuwaza.kill.jp/setume/kokugetuno.htm#kurotsuki58",
+                "user": "ブリギッド・シャッツ",
+                "description": "第55話初登場。\n殺気と共に刀を振るい相手が避けきれないほどの\n大火力を飛ばして攻撃をしている。"
             },
             {
                 "move_name": "極光抱擁(リュルティム・リュミエール)",
