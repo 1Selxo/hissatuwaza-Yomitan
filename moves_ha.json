@@ -1456,6 +1456,12 @@
                 "description": "第137話初登場。相手の髪を切り、それを食べることにより本人さえ知らない肉体の特徴を知ることができる。（ブラッキーさんより）"
             },
             {
+                "move_name": "刹那の10秒(ラプラスデビル)",
+                "url": "https://hissatuwaza.kill.jp/setume/hunter.htm#hunter050",
+                "user": "",
+                "description": ""
+            },
+            {
                 "move_name": "千手拳",
                 "url": "https://hissatuwaza.kill.jp/setume/hunter.htm#hunter55",
                 "user": "昆虫キメラアント",
@@ -25982,6 +25988,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/paras.htm#paras14",
                 "user": "斎藤馨",
                 "description": "第19話初登場。\nゾンビに対して繰り出したドロップキック。"
+            },
+            {
+                "move_name": "トルネードアタック",
+                "url": "https://hissatuwaza.kill.jp/setume/paras.htm#paras25",
+                "user": "仙石",
+                "description": "第77話初登場。\nビーチバレー対決にて使用されたもので、「トルネードの能力」\nによってアタックしたボールに竜巻のよう回転がかかっている。"
+            },
+            {
+                "move_name": "トルネードサーブ",
+                "url": "https://hissatuwaza.kill.jp/setume/paras.htm#paras26",
+                "user": "仙石",
+                "description": "第77話初登場。\nビーチバレー対決にて使用されたもので、「トルネードの能力」\nによって回転がかかったボールをサーブしている。"
             },
             {
                 "move_name": "ニクタックル",

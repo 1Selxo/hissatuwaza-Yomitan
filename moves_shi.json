@@ -7348,6 +7348,18 @@
                 "description": "第50話初登場。召捕六ヶ術の1つ。"
             },
             {
+                "move_name": "剣嵐",
+                "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto25",
+                "user": "スズメ",
+                "description": "第95話初登場。\n自身の骨を鋭い刃のように身体から自在に突起させることができる。"
+            },
+            {
+                "move_name": "変速",
+                "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto26",
+                "user": "ユズ",
+                "description": "自身の速度を上げることが出来る血界。"
+            },
+            {
                 "move_name": "天羽矢(あまはや)",
                 "url": "https://hissatuwaza.kill.jp/setume/sinobigoto.htm#sinobigoto3",
                 "user": "ハヤブサ",
@@ -16694,6 +16706,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/smira-ju.htm#smira-ju14",
                 "user": "",
                 "description": ""
+            }
+        ]
+    },
+    {
+        "series_name": "シルバーマウンテン",
+        "series_url": "https://hissatuwaza.kill.jp/setume/silvermountain.htm",
+        "moves": [
+            {
+                "move_name": "不知(しらず)",
+                "url": "https://hissatuwaza.kill.jp/setume/silvermountain.htm#silvermountain1",
+                "user": "ギン",
+                "description": "第4章第23話初登場。\n斬りかかってくる相手の剣の柄の部分を\n掴み、逆に相手を斬りつけている。"
             }
         ]
     },

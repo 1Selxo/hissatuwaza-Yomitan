@@ -4786,6 +4786,12 @@
                 "description": "詠唱「奇跡の天使よ、命の鼓動に天なる息吹を与え給え。\n天にいただきし太陽。神なる御使は赤を嫌う。光の海に舞い降りて、純白の翼を広げよ。さすれば赤は駆逐されん。シャインヒーリング」\n上級治癒魔術。\n四肢等の切断部分の傷口を塞ぐことができるが、欠損部位は再生されない。\n(無職転生大好きマンさんより)"
             },
             {
+                "move_name": "バーニングプレイス",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei24",
+                "user": "ルーデウス･グレイラット　ムーア 他",
+                "description": "詠唱「天と地をあまねく火の精霊よ、我が血潮を以って爆炎を体に。バーニングプレイス」この詠唱はムーアが短縮したもの。体に熱を与えて温度を上げる。凍った時や、寒い時に使うと効果的。火系統魔術。"
+            },
+            {
                 "move_name": "ヒーリング",
                 "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#musyokutensei3",
                 "user": "ルーデウス･グレイラット、ゼニス･グレイラット、ロキシー･ミグルディア他",
@@ -4802,6 +4808,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#musyokutensei13",
                 "user": "オルステッド ルーデウス･グレイラット",
                 "description": "発動中の魔術に対して、魔力を送り、かき混ぜることで術の発動を阻止、阻害する。\n(無職転生大好きマンさんより)"
+            },
+            {
+                "move_name": "光の太刀",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei27",
+                "user": "エリス･グレイラット　ガル･ファリオン　他",
+                "description": "全ての闘気を込め、利き手とは逆の手でブレを無くし、光の如きスピードで斬る技。極限まで極めれば、光の速さに達すると言われている。剣神流の奥義であり、最強の技。習得すれば剣聖になれる。剣神流聖級技。\n(無職転生大好きマンさんより)"
             },
             {
                 "move_name": "前龍門(ぜんりゅうもん)",
@@ -4870,6 +4882,12 @@
                 "description": "水魔術と土魔術を混合することで、小さな水たまり程度の大きさの沼地を出現させ、相手の動きを制限する。\nルーデウスはあたり一帯を沼地に変えることができる。\n\n(無職転生大好きマンさんより)"
             },
             {
+                "move_name": "流(ナガレ)",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei26",
+                "user": "パウロ･グレイラット　他",
+                "description": "相手の攻撃を剣でを受け流し、相手の体制を崩す技。水神流の基本技。水神流上級技。"
+            },
+            {
                 "move_name": "濃霧(ディープミスト)",
                 "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#musyokutensei21",
                 "user": "ルーデウス･グレイラット　ロキシー･ミグルディア他",
@@ -4894,6 +4912,18 @@
                 "description": "手に熱を与える。水と混合することで、お湯を作ることもできる。\n火系統魔術。\n※階級、詠唱は不明\n（無職転生大好きマンさんより）"
             },
             {
+                "move_name": "無音の太刀",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei28",
+                "user": "ギレーヌ･デドルディア　エリス･グレイラット　他",
+                "description": "音をも置き去りにする速さで斬る技。剣神流上級技。(無職転生大好きマンさんより)"
+            },
+            {
+                "move_name": "甲龍手刀『一断』",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei25",
+                "user": "ぺルギウス･ドーラ",
+                "description": "白く光った手を振り下ろし、光の斬撃を飛ばす。疲弊気味の不死魔王を易々と真っ二つにする威力がある。"
+            },
+            {
                 "move_name": "腕落とし",
                 "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#musyokutensei20",
                 "user": "ルーデウス･グレイラット他",
@@ -4910,6 +4940,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#musyokutensei2",
                 "user": "ルーデウス・グレイラット　ロキシー・ミグルディア他",
                 "description": "水聖級魔術。\n広範囲に雷雨を発生させる。\n詠唱：「雄大なる水の精霊にして、天に上がりし雷帝の王子よ！\n我が願いを叶え、凶暴なる恵みをもたらし、矮小なる存在に力を見せつけよ！\n神なる金槌を金床に打ち付けて畏怖を示し、大地を水で埋め尽くせ！\nああ、雨よ！　全てを押し流し、あらゆるものを駆逐せよ！\nキュムロニンバス！」\n(厨ニ神さんより)"
+            },
+            {
+                "move_name": "雷光(ライトニング)",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei29",
+                "user": "ルーデウス･グレイラット　ロキシー･M･グレイラット　他",
+                "description": "詠唱「雄大なる水の精霊にして、天に上がりし雷帝の王子よ！我が願いを叶え、凶暴なる恵みをもたらし、矮小なる存在に力を見せつけよ！神なる金槌を金床に打ち付けて畏怖を示し、大地を水で埋め尽くせ！ああ、雨よ！全てを押し流し、あらゆるものを駆逐せよ！雄大なる光の精霊にして、天を支配せし雷帝よ！そびえ立つ者が見えるか！傲慢なりし帝の御敵が！我は神なる剣にて、かの者を一撃に打倒せんとする者なり！光り輝く力を以って、帝の威を知らしめん！ライトニング！」豪雷積層雲を圧縮し、強力な雷を落とす。闘気を貫通して攻撃することができる。近くで発動させると、自分にも被害が及ぶ。水王級魔術。(無職転生大好きマンさんより)"
+            },
+            {
+                "move_name": "電撃(エレクトリック)",
+                "url": "https://hissatuwaza.kill.jp/setume/musyokutensei.htm#mushokutensei30",
+                "user": "ルーデウス･グレイラット",
+                "description": "被害を小さくするため、雷光(ライトニング)を小型化して威力･範囲を抑えた、ルーデウスが編み出した技。雷光よりも消費魔力は大きい。(無職転生大好きマンさんより)"
             }
         ]
     },

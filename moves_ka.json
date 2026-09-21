@@ -9640,10 +9640,28 @@
                 "description": "大量の雷太鼓を叩くことによって、周囲に大量の巨大な雷犬を具現化させている。"
             },
             {
+                "move_name": "雷鳴",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai35",
+                "user": "",
+                "description": ""
+            },
+            {
                 "move_name": "鮮血暴力(ブラッディ・ボルテクス)",
                 "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai21",
                 "user": "ギスターヴ",
                 "description": "第20話初登場。神装天凱。\n「弱者が強者へ奏でる葬送曲(サウザンド・ナイヴス・レクイエム)」によって\n大量のナイフによって竜巻を作り出す。"
+            },
+            {
+                "move_name": "黒百合姫",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai34",
+                "user": "",
+                "description": ""
+            },
+            {
+                "move_name": "黒蝶大輪",
+                "url": "https://hissatuwaza.kill.jp/setume/kagurai.htm#kagurai33",
+                "user": "神楽",
+                "description": "雷人の力を受け継いだもの。\n刀に雷をまとわせて斬撃を繰り出すことが可能になっている。"
             }
         ]
     },
@@ -11114,6 +11132,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanon9",
                 "user": "",
                 "description": "第7話初登場。風の牢。巨大な風の檻の中に対象を閉じ込める。"
+            },
+            {
+                "move_name": "犀(サイ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster9",
+                "user": "",
+                "description": "第11話初登場。岩の盾。\n槌を振るって岩を動物のサイの形にして飛ばしている。"
             },
             {
                 "move_name": "突",
@@ -34398,6 +34422,24 @@
         ]
     },
     {
+        "series_name": "仮面ライダーマイス",
+        "series_url": "https://hissatuwaza.kill.jp/setume/maisu.htm",
+        "moves": [
+            {
+                "move_name": "セパレード",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu2",
+                "user": "仮面ライダーマイス",
+                "description": "第2話初登場。タートルフレームにて使用する必殺技。\nフレームマイスという亀の甲羅のような器具を相手に飛ばして\n巨大な檻として閉じ込める。動けなくなった相手にライダーキックをぶちかます。"
+            },
+            {
+                "move_name": "マウスセパレード",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu1",
+                "user": "仮面ライダーマイス",
+                "description": "第1話初登場。\nランニングホイールの中で走りながら突進をしていき\n相手にぶつかり吹き飛ばした後に、追撃でライダーキックを\n繰り出す必殺技。"
+            }
+        ]
+    },
+    {
         "series_name": "仮面ライダーリバイス",
         "series_url": "https://hissatuwaza.kill.jp/setume/raida-ribaisu.htm",
         "moves": [
@@ -52442,6 +52484,48 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kamuro.htm#kamuro1",
                 "user": "烏丸手鞠",
                 "description": "裏平家流奥義。\n対象をその名の通り十文字に斬り裂く。"
+            }
+        ]
+    },
+    {
+        "series_name": "神引きのモナーク",
+        "series_url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm",
+        "moves": [
+            {
+                "move_name": "イガイガ白熱刃",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino6",
+                "user": "イガの久利丸",
+                "description": "刀に熱をまとわせて斬撃を繰り出している。"
+            },
+            {
+                "move_name": "熱刃(ねっぱ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino1",
+                "user": "アンバー・キャノシー",
+                "description": "刀身から熱を発することが出来る。"
+            },
+            {
+                "move_name": "爆散熱棘",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino5",
+                "user": "イガの久利丸",
+                "description": "忍術「栗飛礫」によって飛ばした栗を爆発させている。"
+            },
+            {
+                "move_name": "針千本",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino3",
+                "user": "イガの久利丸",
+                "description": "口から大量の針を発射する忍法。"
+            },
+            {
+                "move_name": "針地獄",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino4",
+                "user": "イガの久利丸",
+                "description": "針の雨を降らせる伊賀忍法の奥義。"
+            },
+            {
+                "move_name": "針地蔵",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino2",
+                "user": "イガの久利丸",
+                "description": "大量のトゲを隆起させる忍法。"
             }
         ]
     },
