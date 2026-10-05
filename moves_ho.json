@@ -36700,6 +36700,12 @@
                 "description": "第16話初登場。\n雨の日限定の必殺技。\nボールを地面に叩きつけて水柱を巻き上げて自身の姿を\nくらましつつ、ボールに水をまとわせたショットを飛ばす。\nキャッチしようとする相手に水が散弾銃のように弾けダメージを与える。"
             },
             {
+                "move_name": "ウルトラマッスルボール",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko42",
+                "user": "USバッファローズ",
+                "description": "第35話初登場。キャプテンのゾーイが\nチームメイトをボールのように球状に固め、\n相手のショットを防ぐ盾とする。"
+            },
+            {
                 "move_name": "エルボー投げ",
                 "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko5",
                 "user": "",
@@ -36722,6 +36728,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko32",
                 "user": "土佐アタッカーズ",
                 "description": "第25話初登場。\n4人で手を取り合って連結した状態でそのしなりを利用して、\nボールを投げる必殺技。"
+            },
+            {
+                "move_name": "ジャイロタイフーン",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko45",
+                "user": "三笠はこ＆火浦颯美",
+                "description": "第89話初登場。\n「フラフープアシスト」から竜巻のように旋回してから\nボールを投げるショット。"
             },
             {
                 "move_name": "スイッチショット千手斬",
@@ -36778,6 +36790,12 @@
                 "description": "第13話初登場。\n無数のステルスの小型ハチのドローンによって\n画像を投映させることによって無数にボールが分身してるかのように\n見せている。"
             },
             {
+                "move_name": "ハニーパーフェクトリニアショット",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko46",
+                "user": "",
+                "description": "第89話初登場。\nハニーの投球フォームを真似て繰り出すショット。\nハニーのはパワーが足りてなかったが、恵まれた肉体から\n繰り出すショットは超豪速球となる。"
+            },
+            {
                 "move_name": "ハニーホーミングショット",
                 "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko8",
                 "user": "羽仁衣",
@@ -36808,6 +36826,12 @@
                 "description": "第27話初登場。\n空中に縦にスピンしながら飛び上がり、\n地上へ向けてドライブがかかったボールを投げる必殺技。"
             },
             {
+                "move_name": "フラフープアシスト",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko44",
+                "user": "三笠はこ＆火浦颯美",
+                "description": "第89話初登場。はこの\n長い体をポールのように見立てて、\nそれを軸に高速で旋回をおこなう。"
+            },
+            {
                 "move_name": "ブラックトルネードショット",
                 "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko27",
                 "user": "御堂蘭",
@@ -36836,6 +36860,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko34",
                 "user": "USバッファローズ",
                 "description": "第32話初登場。\n5人で同時に5つのボールを投げている。"
+            },
+            {
+                "move_name": "マッスルボール",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko43",
+                "user": "USバッファローズ",
+                "description": "第34話初登場。\nチームメイトをボールのように丸め、\n相手のショットを防ぐ盾としている。"
             },
             {
                 "move_name": "ミラクルナスティボール",
@@ -36890,6 +36920,30 @@
                 "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko29",
                 "user": "土佐アタッカーズ",
                 "description": "第26話初登場。\n「土佐アタッカーズドッキングフォーメーション」によって\n空中で4人に合体してからボールを地上へ向けて投げるというもの。\nその威力は地面にクレーターを作るほどの威力がある。"
+            },
+            {
+                "move_name": "泥鎧(ダイラタンシーアーマー)",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko41",
+                "user": "",
+                "description": "フィールドの泥を自身にまとうことによって\n鎧のようにする必殺技。"
+            },
+            {
+                "move_name": "爆裂ショットプット",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko47",
+                "user": "スーザン・キャノン",
+                "description": "「爆裂呼吸」によって体の内圧と心拍を極限まで高め、\n筋肉を肥大化させてから、砲丸投げの要領でボールを\n飛ばす必殺技。"
+            },
+            {
+                "move_name": "絶対泥壁(マッドウォール)",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko40",
+                "user": "",
+                "description": "フィールドの泥を隆起させて壁のように展開させて\n相手のショットを防ぐ。"
+            },
+            {
+                "move_name": "超らせんサイクロントルネードハイパー墓石ショット",
+                "url": "https://hissatuwaza.kill.jp/setume/danko.htm#danko39",
+                "user": "一撃弾子",
+                "description": "第90話初登場。\n相手の球の勢いに吹き飛ばされつつもスージーの腹筋を地面に見立てて\n跳ね返り、さらにもち子の体の反動を利用しつつ、\nさらに竜巻のごとく回転をかけてボールを飛ばす合体技。"
             }
         ]
     },

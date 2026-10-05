@@ -38806,6 +38806,12 @@
                 "description": "アニメ版では第2話初登場。\n禍々しい腕によって魔人の能力を収穫する。\n収穫した能力は使用可能で、作中では冷気を発している。"
             },
             {
+                "move_name": "氷霧",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex9",
+                "user": "夜海トワ",
+                "description": "第5話初登場。\n周囲に氷の霧を散布させることによって、視界や通信記録などを\n遮断＆妨害することが出来る。"
+            },
+            {
                 "move_name": "紅蓮",
                 "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex6",
                 "user": "久瀬シイナ",
@@ -38828,6 +38834,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex4",
                 "user": "喜多森ユーナ",
                 "description": "アニメ版では第2話初登場。\n超身体強化、流体武装生成。\n腕などを肥大化させて攻撃をしたりしている。\n人体を消し飛ばしたり、車を吹き飛ばすほどのパワーがある。"
+            },
+            {
+                "move_name": "閃速",
+                "url": "https://hissatuwaza.kill.jp/setume/nanohaex.htm#nanohaex8",
+                "user": "夜海トワ",
+                "description": "第5話初登場。簡単に言えば高速移動。\n自身の感覚圧縮によって体感時間を低速化させ、瞬間身体強化をおこなうことによって\n可能としている。身体への負担は大きい。"
             },
             {
                 "move_name": "黒炎",
@@ -49661,6 +49673,12 @@
             },
             {
                 "move_name": "挟打(イプシロン)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko56",
+                "user": "衝(ハカリ)",
+                "description": "第91話初登場。\n両手で挟みこむことによって、対象を\n分解している。"
+            },
+            {
+                "move_name": "探嗅(ワンワン)",
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko56",
                 "user": "衝(ハカリ)",
                 "description": "第91話初登場。\n両手で挟みこむことによって、対象を\n分解している。"

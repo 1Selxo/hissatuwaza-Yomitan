@@ -34426,7 +34426,19 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/maisu.htm",
         "moves": [
             {
+                "move_name": "ウルフセパレート",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu3",
+                "user": "仮面ライダーマイス",
+                "description": "第4話初登場。ウルフフォームで使用する必殺技。\nいわゆるライダーキックを繰り出している。"
+            },
+            {
                 "move_name": "セパレード",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu2",
+                "user": "仮面ライダーマイス",
+                "description": "第2話初登場。タートルフレームにて使用する必殺技。\nフレームマイスという亀の甲羅のような器具を相手に飛ばして\n巨大な檻として閉じ込める。動けなくなった相手にライダーキックをぶちかます。"
+            },
+            {
+                "move_name": "タートルセパレード",
                 "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu2",
                 "user": "仮面ライダーマイス",
                 "description": "第2話初登場。タートルフレームにて使用する必殺技。\nフレームマイスという亀の甲羅のような器具を相手に飛ばして\n巨大な檻として閉じ込める。動けなくなった相手にライダーキックをぶちかます。"
@@ -34436,6 +34448,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu1",
                 "user": "仮面ライダーマイス",
                 "description": "第1話初登場。\nランニングホイールの中で走りながら突進をしていき\n相手にぶつかり吹き飛ばした後に、追撃でライダーキックを\n繰り出す必殺技。"
+            },
+            {
+                "move_name": "猫バクメツ",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu4",
+                "user": "仮面ライダーリド",
+                "description": "第3話初登場。\n相手の周囲を縦横無尽に飛び回って、その軌跡に\n足跡を残す。その足跡から対象を狙ったレーザーのようなものが\n発射され捕縛をおこない、動けなくなった相手に対して飛び上がって\nライダーキックを浴びせる。"
             }
         ]
     },
@@ -55804,16 +55822,64 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm",
         "moves": [
             {
+                "move_name": "刺勇(さしゆ)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn10",
+                "user": "イバル",
+                "description": "第7話初登場。絶槍角を角醒憑依状態で繰り出す必殺技。\nエネルギー状の槍を伸ばして攻撃をしている。"
+            },
+            {
+                "move_name": "勇ノ華(ゆのはな)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn8",
+                "user": "イバル",
+                "description": "第7話初登場。絶槍角を角醒憑依状態で繰り出す必殺技。\n追尾性のある大量の槍のエネルギーを飛ばして攻撃をしている。"
+            },
+            {
+                "move_name": "壱番武炉(いちばんぶろ)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn9",
+                "user": "イバル",
+                "description": "第7話初登場。絶槍角を角醒憑依状態で繰り出す必殺技。\n刀を振り払って、離れた距離の巨岩さえも一刀両断にしている。"
+            },
+            {
+                "move_name": "大粉砕",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn11",
+                "user": "ゲンノウ",
+                "description": "第8話初登場。砕角を角醒憑依状態で繰り出す必殺技。\n槌を叩いて空中高くに飛び上がって槌を振り下ろして攻撃をする。"
+            },
+            {
+                "move_name": "大芯撃",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn12",
+                "user": "ゲンノウ",
+                "description": "第8話初登場。砕角を角醒憑依状態で繰り出す必殺技。\n巨大な槌のエネルギーを振り下ろして攻撃をする。"
+            },
+            {
                 "move_name": "斬斬舞(ぎりぎりまい)",
                 "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn4",
                 "user": "波斬のギリコ",
                 "description": "第3話初登場。覚醒憑依状態の自身に斬角のパワーを宿した角獣覚醒器から大剣にパワーを宿し、斬撃を繰り出すことで斬角のエネルギーを飛ばして攻撃をする必角技。"
             },
             {
+                "move_name": "氷晶浄",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn5",
+                "user": "アル",
+                "description": "第5話初登場。角醒憑依の杖の状態で繰り出したもの。\n冷気によって毒を凍結させて結晶状にしている。"
+            },
+            {
+                "move_name": "瀧勇(たきゆ)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn6",
+                "user": "イバル",
+                "description": "第7話初登場。絶槍角を角醒憑依状態で繰り出す必殺技。\n刀を振り下ろして炎さえも一刀両断にしている。"
+            },
+            {
                 "move_name": "王炎火(おうえんか)",
                 "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn3",
                 "user": "炎のシャウト",
                 "description": "第3話初登場。覚醒憑依状態の自身に炎角のパワーを宿した角獣覚醒器から右腕にパワーを宿しパンチを繰り出すことで炎角のエネルギーを飛ばして攻撃をする必角技。"
+            },
+            {
+                "move_name": "追瀧(おいだき)",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn7",
+                "user": "イバル",
+                "description": "第7話初登場。絶槍角を角醒憑依状態で繰り出す必殺技。\n相手への追撃の斬撃を繰り出している。"
             }
         ]
     },

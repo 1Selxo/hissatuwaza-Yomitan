@@ -5038,6 +5038,12 @@
                 "description": "番外編にて登場。\n物凄いパンチ攻撃。\n一瞬にして3発を繰り出している。"
             },
             {
+                "move_name": "ヌースの海域",
+                "url": "https://hissatuwaza.kill.jp/setume/wkw.htm#wkw7",
+                "user": "クロノワール",
+                "description": "第55話初登場。魔法算術アイオーンエクストラクションから織りなされる\n究極魔法の1つ。\n超巨大なクジラのようなものを呼び出している。"
+            },
+            {
                 "move_name": "マントルパンチ",
                 "url": "https://hissatuwaza.kill.jp/setume/wkw.htm#wkw4",
                 "user": "多華宮霞",
@@ -5054,6 +5060,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/wkw.htm#wkw1",
                 "user": "火々里綾火",
                 "description": "第1話初登場。\nクローバーのような蝶のような炎を放出して攻撃などをおこなう魔法。"
+            },
+            {
+                "move_name": "真夜中の竜牢(ミッテアナハツ・ドラッヘンケルカー)",
+                "url": "https://hissatuwaza.kill.jp/setume/wkw.htm#wkw6",
+                "user": "氷尾凍子",
+                "description": "第55話初登場。周囲に闇の結界を展開させる魔法。\nこの中では魔女のみが存在を許される。"
             }
         ]
     },
