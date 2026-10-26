@@ -248,6 +248,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/destroyers.htm#destroyers1",
                 "user": "水沼かおり",
                 "description": "第8話初登場。\n小指をぶつけた際に硬化させることができる能力。"
+            },
+            {
+                "move_name": "黄昏流星群",
+                "url": "https://hissatuwaza.kill.jp/setume/destroyers.htm#destroyers5",
+                "user": "シハン",
+                "description": "第22話初登場。\n大量の光球を周囲に展開させ、\nそれを一斉に飛ばして攻撃をおこなう。"
             }
         ]
     },
@@ -13280,6 +13286,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kakurenja.htm#kakurenja6",
                 "user": "",
                 "description": ""
+            },
+            {
+                "move_name": "忍法　熱血おじさん説法",
+                "url": "https://hissatuwaza.kill.jp/setume/kakurenja.htm#kakurenja001",
+                "user": "ニンジャブルー＆ニンジャイエロー",
+                "description": "若者(ユキオンナ)に対して暑苦し説法をおこなうことによって、\n体温を強制的に上昇させている。"
             },
             {
                 "move_name": "忍法「消え身の術」",

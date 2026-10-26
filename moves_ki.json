@@ -12340,6 +12340,12 @@
                 "description": "第227話初登場。\n頭のカレーのルーを投げつけて相手に目潰しをおこなう。"
             },
             {
+                "move_name": "カウボーイジェットスタンプ",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw448",
+                "user": "ペシミマン",
+                "description": "第530話初登場。ファイヤーバードストレージで引き寄せた相手に両膝蹴りを喰らわせる。 (T・M・Rさんより)"
+            },
+            {
                 "move_name": "カシードラルボンバー",
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw254",
                 "user": "ランペイジマン",
@@ -12740,6 +12746,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw291",
                 "user": "ノトーリアス",
                 "description": "第347話初登場。\nサーベルタイガーのような巨大な牙を駆使して\n噛みつき攻撃をおこなう。"
+            },
+            {
+                "move_name": "シェリフソバット",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw446",
+                "user": "ペシミマン",
+                "description": "第530話初登場。倒立状態から回転しながら蹴りを放つ。(T・M・Rさんより)"
             },
             {
                 "move_name": "シェルタリングピューパ",
@@ -13204,6 +13216,12 @@
                 "description": "第497話初登場。右腕のショベルでリングの岩盤を抉り取って投げ飛ばす。(T・M・Rさんより)"
             },
             {
+                "move_name": "ドリルフォアロビン",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw452",
+                "user": "ロビンマスク",
+                "description": "第531話初登場。自身の体を回転させてペシミマンのファイヤーバードの縄から脱出する。\n(T・M・Rさんより)"
+            },
+            {
                 "move_name": "ドリル・ア ホール・スコップ",
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw294",
                 "user": "ジ・エクスキューショナー",
@@ -13346,6 +13364,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw258",
                 "user": "バイコーン",
                 "description": "第327話初登場。\n空中から縦に回転しながら落下していき、\n頭部のバイコーンの角によって切り裂く。"
+            },
+            {
+                "move_name": "バウンティーハンター・パロ",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw449",
+                "user": "ペシミマン",
+                "description": "第530話初登場。相手をブリッジさせた状態で、自身の両手と両脚で相手の両腕を捻り上げる。ウォーズマンのパロ・スペシャルの変形技であり、派生型の技とも言える。\n(T・M・Rさんより)"
             },
             {
                 "move_name": "バタフライアバターフォビア",
@@ -13526,6 +13550,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw389",
                 "user": "ペシミマン",
                 "description": "第475話初登場。ファイヤーバードガンスリンガーで捕らえた相手を自身の方へと引き寄せる。\n(T・M・Rさんより)"
+            },
+            {
+                "move_name": "ファイヤーバードストレージ",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw447",
+                "user": "ペシミマン",
+                "description": "第530話初登場。両腕のファイヤーバードで相手の背後のリングのロープを掴んで前方に押し出した後、ファイヤーバードごとロープを引き戻して相手の首の後ろに引っ掛けて相手を自身の方へと引き寄せる。\n(T・M・Rさんより)"
             },
             {
                 "move_name": "ファイヤーブレイジングテールキック",
@@ -14068,6 +14098,12 @@
                 "description": "第234話初登場。\n相手を空中で逆さまにキャッチして、\n頭部を太ももで挟んで、両足を掴んで、そのまま地面へと叩きつける。"
             },
             {
+                "move_name": "レイジングブルスタンピード",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw451",
+                "user": "ペシミマン",
+                "description": "第531話初登場。ファイヤーバードの縄で捕縛した相手の頭部をコーナーポストに叩き付ける。(T・M・Rさんより)"
+            },
+            {
                 "move_name": "レイジングブル・ギガスイング",
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw393",
                 "user": "ペシミマン",
@@ -14108,6 +14144,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw267",
                 "user": "サタンクロス",
                 "description": "第333話初登場。\n4本の足を駆使して、相手の上から\n連続で踏みつけて攻撃をする。"
+            },
+            {
+                "move_name": "ロデオ・ワイルドバンチ",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw450",
+                "user": "ペシミマン",
+                "description": "第531話初登場。相手を一本背負いに捕らえてからバックドロップへとつなぐ高等技。(T・M・Rさんより)"
+            },
+            {
+                "move_name": "ロビンマスク版パロ・スペシャル",
+                "url": "https://hissatuwaza.kill.jp/setume/kinnikuw.htm#kinnikuw453",
+                "user": "Mr.バラクーダ（ロビンマスク）",
+                "description": "第532話初登場。ウォーズマンのパロ・スペシャルとは違って、こちらは相手の両腕を交差させた状態で技を極めている。パロ・スペシャルのオリジナル版であり、最初に技を開発したロビンマスク自身は、ペシミマン戦まで一度も使う事はなかった技。\n(T・M・Rさんより)"
             },
             {
                 "move_name": "ロビンレガシーロック",
@@ -33614,6 +33662,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/jipan.htm#jipan4",
                 "user": "カゼノイド(ハクションおじさん)",
                 "description": "第7話に登場したカゼノイドの必殺技。\n雑菌が含まれた古い人形にドクターギバが開発した新型ウイルスを合成させて生まれたバイオノイド・カゼノイドが、ハクションおじさんに変身したときに使用し、くしゃみすることで複数の人間に感染させる。\nこのウイルスにかかった者は、高熱になってクシャミが止まらなくなり、24時間後には確実に死亡してしまう。(アーリマンさんより)"
+            },
+            {
+                "move_name": "サイバリア－",
+                "url": "https://hissatuwaza.kill.jp/setume/jipan.htm#jipan02",
+                "user": "サイノイド",
+                "description": "第35話で披露したトーチカ状の防御形態。\nパーフェクトジバンの新装備・オートデリンガー・ファイナルキャノンには耐えられなかった。"
             },
             {
                 "move_name": "サーチバスター",

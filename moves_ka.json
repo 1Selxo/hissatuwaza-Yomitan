@@ -34426,6 +34426,12 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/maisu.htm",
         "moves": [
             {
+                "move_name": "イーグルセパレード",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu5",
+                "user": "仮面ライダーマイス",
+                "description": "イーグルフレームにて使用する必殺技。\n羽によって空中高くに飛び上がって、急降下しながら\nライダーキックを繰り出す。"
+            },
+            {
                 "move_name": "ウルフセパレート",
                 "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu3",
                 "user": "仮面ライダーマイス",
@@ -43256,6 +43262,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu50",
                 "user": "ジーナ・グレイシス＆ラウロ・リベリオ",
                 "description": "第88話初登場。ジーナの「紅玉美晶(ルビー)」とラウロの「新星火球玉(ノヴァファイヤーボール)」を組み合わせた合体技。斬撃と共に大爆破を巻き起こしている。"
+            },
+            {
+                "move_name": "絡みつく魔蔦種(タングルデビル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu97",
+                "user": "ゼアルク",
+                "description": "第105話初登場。\n巨大な蔦によって対象を捕らえる。"
             },
             {
                 "move_name": "緊急脱出(エスケープ)",
@@ -52514,6 +52526,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino6",
                 "user": "イガの久利丸",
                 "description": "刀に熱をまとわせて斬撃を繰り出している。"
+            },
+            {
+                "move_name": "忍法 仕留め針",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino8",
+                "user": "イガの久利丸",
+                "description": "自身の着ている部分の一部を\n巨大な針として伸ばして攻撃をしている。"
             },
             {
                 "move_name": "熱刃(ねっぱ)",

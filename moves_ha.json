@@ -24480,6 +24480,24 @@
         ]
     },
     {
+        "series_name": "バーテックスフォース",
+        "series_url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm",
+        "moves": [
+            {
+                "move_name": "グラビトンウェーブ",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce3",
+                "user": "東道晴香",
+                "description": "第1話初登場。エンジンを発動させた状態で使用。\n重力波のようなものを発することが出来る。"
+            },
+            {
+                "move_name": "グラビトンプレッシャー",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce4",
+                "user": "東道晴香",
+                "description": "第1話初登場。エンジンを発動させた状態で使用。\n相手の頭上から重力場のようなものを発生させて押しつぶす。"
+            }
+        ]
+    },
+    {
         "series_name": "バードマン",
         "series_url": "https://hissatuwaza.kill.jp/setume/birdman.htm",
         "moves": [

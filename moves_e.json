@@ -21448,6 +21448,12 @@
                 "description": "第105話初登場。土塊悪祓術。\n相手の左右から挟み込むようにして岩盤が襲いかかる。"
             },
             {
+                "move_name": "岩盤ストライク",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun133",
+                "user": "忌多野大地",
+                "description": "第111話初登場。土塊悪祓術。\n岩盤を直線上に飛ばして攻撃をしている。"
+            },
+            {
                 "move_name": "巨月拳(ヘカトンケイル)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun24",
                 "user": "祓清",
@@ -21578,6 +21584,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun64",
                 "user": "聖剣",
                 "description": "第44話初登場。蹴りと共に\nエネルギーの剣を撃ち出して攻撃をしている。"
+            },
+            {
+                "move_name": "暗躍の模倣犯(ユージュアルサスペクツ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun134",
+                "user": "燁札(いえふだ)",
+                "description": "第112話初登場。紋章悪祓術。\n他人に化けることが出来る。\nその間は自身が年を取ることはない。"
             },
             {
                 "move_name": "暗黒漆黒黒滅球(トリプルブラックボール)",
@@ -21884,6 +21896,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun106",
                 "user": "棺葬介",
                 "description": "第83話初登場。聖水を右手で22.1NPaまで圧縮、左で水温を374℃まで上昇させる。これを弾けさせることによって、超臨界水となって周囲にいる魔族に対して魔力を使えないようにしてしまう。"
+            },
+            {
+                "move_name": "辺獄輪(リンボ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun132",
+                "user": "燁札(いえふだ)",
+                "description": "第110話初登場。悪門術。\n黒い禍々しいエネルギーの障壁によって攻撃を防いでいる。"
             },
             {
                 "move_name": "道化華(ナルキッソス)",
@@ -46648,6 +46666,12 @@
                 "description": "第105話初登場。土塊悪祓術。\n相手の左右から挟み込むようにして岩盤が襲いかかる。"
             },
             {
+                "move_name": "岩盤ストライク",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun133",
+                "user": "忌多野大地",
+                "description": "第111話初登場。土塊悪祓術。\n岩盤を直線上に飛ばして攻撃をしている。"
+            },
+            {
                 "move_name": "崩月輪",
                 "url": "https://hissatuwaza.kill.jp/setume/au0.htm#au0:47",
                 "user": "《銀(イン)》",
@@ -48086,6 +48110,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/aukuro.htm#aukuro121",
                 "user": "クロガネ",
                 "description": "空中に飛び上がってクナイを投げて、\n対象の足元から闇の網のようなものを出現\nさせて攻撃をする。"
+            },
+            {
+                "move_name": "暗躍の模倣犯(ユージュアルサスペクツ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun134",
+                "user": "燁札(いえふだ)",
+                "description": "第112話初登場。紋章悪祓術。\n他人に化けることが出来る。\nその間は自身が年を取ることはない。"
             },
             {
                 "move_name": "暗黒の渦",
@@ -53222,6 +53252,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/ega-dog.htm#ega-dog42",
                 "user": "クー＆キーア",
                 "description": "クーのアンゲル攻撃＆キーアの噛みつき攻撃の合体技。\n攻撃：40　スピード：60"
+            },
+            {
+                "move_name": "辺獄輪(リンボ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun132",
+                "user": "燁札(いえふだ)",
+                "description": "第110話初登場。悪門術。\n黒い禍々しいエネルギーの障壁によって攻撃を防いでいる。"
             },
             {
                 "move_name": "迎撃ウェポン・ユニット",
