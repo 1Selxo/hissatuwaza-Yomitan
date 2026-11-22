@@ -17652,6 +17652,18 @@
         ]
     },
     {
+        "series_name": "怨霊日和",
+        "series_url": "https://hissatuwaza.kill.jp/setume/onryouhibiyori.htm",
+        "moves": [
+            {
+                "move_name": "手鏡ガード",
+                "url": "https://hissatuwaza.kill.jp/setume/onryouhibiyori.htm#onryouhibiyori1",
+                "user": "あゆみ",
+                "description": "第8話初登場。\n手鏡を駆使して相手の攻撃を防ぐ。"
+            }
+        ]
+    },
+    {
         "series_name": "愚かな天使は悪魔と踊る",
         "series_url": "https://hissatuwaza.kill.jp/setume/oroten.htm",
         "moves": [
@@ -19592,6 +19604,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/ousamarankingu.htm#ousamarankingu2",
                 "user": "ヒリング",
                 "description": "第79話初登場。\n手から光を発して対象の目をくらましている。"
+            },
+            {
+                "move_name": "超魅了",
+                "url": "https://hissatuwaza.kill.jp/setume/ousamarankingu.htm#ousamarankingu6",
+                "user": "ミランジョ",
+                "description": "第312話で使用。魔法によって対象を魅了する。"
             }
         ]
     },

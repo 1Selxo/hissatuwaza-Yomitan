@@ -11128,6 +11128,12 @@
                 "description": "第7話初登場。魔刃「風守の鉤爪」を使った風の筆。巨大な3枚刃のブーメランに風をまとわせて投げつけている。"
             },
             {
+                "move_name": "凝",
+                "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanonmaster10",
+                "user": "バラト",
+                "description": "第19話初登場。「穿」を応用した技で、\n一点に風を集中させることによって破壊力を増幅させる。"
+            },
+            {
                 "move_name": "渦",
                 "url": "https://hissatuwaza.kill.jp/setume/kanonmaster.htm#kanon9",
                 "user": "",
@@ -34438,6 +34444,12 @@
                 "description": "第4話初登場。ウルフフォームで使用する必殺技。\nいわゆるライダーキックを繰り出している。"
             },
             {
+                "move_name": "オルカセパレード",
+                "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu6",
+                "user": "仮面ライダーマイス",
+                "description": "第10話初登場。オルカフレームで繰り出す必殺技。\n空中を泳ぐようにして急降下しながら脚部にまとわせたエネルギーによる\nライダーキックを繰り出している。"
+            },
+            {
                 "move_name": "セパレード",
                 "url": "https://hissatuwaza.kill.jp/setume/maisu.htm#maisu2",
                 "user": "仮面ライダーマイス",
@@ -43070,6 +43082,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu3",
                 "user": "アルバス",
                 "description": "第3話初登場。\n大きく飛び上がりながら剣を振り上げて\n攻撃をする。"
+            },
+            {
+                "move_name": "修復魔法(リペリア)",
+                "url": "https://hissatuwaza.kill.jp/setume/kaitenarubasu.htm#kaitenarubasu98",
+                "user": "ジーナ・グレイシス",
+                "description": "第108話初登場。壊れた物体などを戻す魔法。"
             },
             {
                 "move_name": "光輝の剣(クラウ・ソラス)",
@@ -52528,6 +52546,18 @@
                 "description": "刀に熱をまとわせて斬撃を繰り出している。"
             },
             {
+                "move_name": "奇跡・極上枕複製(ハイピローレプリケーション)",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino9",
+                "user": "ミア",
+                "description": "第24話初登場。\n巨大な枕を具現化している。"
+            },
+            {
+                "move_name": "奇跡・聖典複製(セイクリッドレプリケーション)",
+                "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino10",
+                "user": "ミア",
+                "description": "第24話初登場。\n聖典を具現化させている。"
+            },
+            {
                 "move_name": "忍法 仕留め針",
                 "url": "https://hissatuwaza.kill.jp/setume/kamibikino.htm#kamibikino8",
                 "user": "イガの久利丸",
@@ -55892,6 +55922,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn3",
                 "user": "炎のシャウト",
                 "description": "第3話初登場。覚醒憑依状態の自身に炎角のパワーを宿した角獣覚醒器から右腕にパワーを宿しパンチを繰り出すことで炎角のエネルギーを飛ばして攻撃をする必角技。"
+            },
+            {
+                "move_name": "王炎火・大炎投",
+                "url": "https://hissatuwaza.kill.jp/setume/omegahorn.htm#omegahorn13",
+                "user": "機炎角",
+                "description": "第15話初登場。\n巨大な火炎球を鎖でぶん回しながら、\n放り投げる必殺技。"
             },
             {
                 "move_name": "追瀧(おいだき)",

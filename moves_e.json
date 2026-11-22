@@ -21232,6 +21232,12 @@
                 "description": "第43話初登場。\n青竜刀にエネルギーをまとわせて斬撃を繰り出している。"
             },
             {
+                "move_name": "ビッグ岩バン",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun140",
+                "user": "忌多野大地",
+                "description": "第115話初登場。土塊悪祓術。\n両手を地面に置いて、周囲の地面をバラけさせて\n飛ばしている。"
+            },
+            {
                 "move_name": "ボムバルーン",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun102",
                 "user": "廻殺(ネコ)",
@@ -21332,6 +21338,30 @@
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun93",
                 "user": "ルル",
                 "description": "第74話初登場。自身の無数の縦ロールの\n髪を鋭利に伸ばして攻撃をおこなう。"
+            },
+            {
+                "move_name": "大地巨兵(ロックソルジャー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun138",
+                "user": "忌多野國伽羅",
+                "description": "第114話初登場。紋章悪祓術。\n地面から巨大な土兵を作り出す。\n破壊されても、その破片から分裂して増えていくが\nサイズ自体は小さくなってしまう。小さくても強さ自体は\n大きい時と同じとなっている。"
+            },
+            {
+                "move_name": "大地砂散弾(ロックサンド)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun137",
+                "user": "忌多野國伽羅",
+                "description": "第113話初登場。紋章悪祓術。\n砂を弾丸のように飛ばして攻撃をしている。"
+            },
+            {
+                "move_name": "大地頌 大地暴槍(アンダーグラウンド ロングスピア)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun136",
+                "user": "忌多野國伽羅",
+                "description": "第113話初登場。紋章悪祓術。\n地面を巨大な槍のように隆起させて攻撃をしている。"
+            },
+            {
+                "move_name": "大地餐頌 死地尖撃(アンダーグラウンド デッドドリル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun135",
+                "user": "忌多野國伽羅",
+                "description": "第114話初登場。亜門術。\nダイヤモンドの333倍の鋭い岩石をドリルの回転\nさせながら飛ばして攻撃をする。(オーパーツさんより)"
             },
             {
                 "move_name": "大王黒雷(だいこうこくらい)",
@@ -21688,6 +21718,18 @@
                 "description": "第15話初登場。\n大量の太い樹の根っこによって\n対象を覆って閉じ込める。"
             },
             {
+                "move_name": "死地武鎧(デッドアーマー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun145",
+                "user": "忌多野國伽羅",
+                "description": "第116話初登場。\n全身を真っ黒の甲冑を展開させている。"
+            },
+            {
+                "move_name": "死地逆五芒星(デッドデビルスター)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun139",
+                "user": "忌多野國伽羅",
+                "description": "第115話初登場。\n無数の円錐を展開させて、それによって攻撃をしている。"
+            },
+            {
                 "move_name": "水弾(バレット)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun14",
                 "user": "棺葬介",
@@ -21970,10 +22012,22 @@
                 "description": "第34話初登場。\n地面に槍の柄を突くことによって、\n気のようなものを周囲に放出して攻撃をする。"
             },
             {
+                "move_name": "黒ノ太陽盾(ブラックアテナ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun141",
+                "user": "祓清",
+                "description": "第116話初登場。\n黒い戒力を込めた「太陽盾(アテナ)」。\n悪魔からの攻撃に対して特に効果が出る。"
+            },
+            {
                 "move_name": "黒ノ巨月拳(ブラックヘカトンケイル)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun121",
                 "user": "祓清",
                 "description": "第93話初登場. 月の破壊神(ムーンライズ・キングダム)。魔力と戒力を混ぜた拳による一撃を繰り出している。"
+            },
+            {
+                "move_name": "黒ノ月槍(ブラックポセイドン)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun144",
+                "user": "祓清",
+                "description": "第116話初登場。\n黒い戒力を込めた「月槍(ポセイドン)」。"
             },
             {
                 "move_name": "黒ノ月銃(ブラックアルテミス)",
@@ -39868,6 +39922,12 @@
                 "description": "第64話初登場。\n巨大な足で対象を踏みつけて攻撃する魔法。"
             },
             {
+                "move_name": "ビッグ岩バン",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun140",
+                "user": "忌多野大地",
+                "description": "第115話初登場。土塊悪祓術。\n両手を地面に置いて、周囲の地面をバラけさせて\n飛ばしている。"
+            },
+            {
                 "move_name": "ビット",
                 "url": "https://hissatuwaza.kill.jp/setume/naitos.htm#naitos19",
                 "user": "魔法",
@@ -45922,6 +45982,30 @@
                 "description": "技名通り、猛烈な回転をかけた旋風脚で周囲の敵全てを攻撃する技。\n範囲攻撃な割には威力が高めな上に、大きく吹き飛ばす効果もあるので陣形を崩されてしまうのも痛い。\n(悠久さんより)"
             },
             {
+                "move_name": "大地巨兵(ロックソルジャー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun138",
+                "user": "忌多野國伽羅",
+                "description": "第114話初登場。紋章悪祓術。\n地面から巨大な土兵を作り出す。\n破壊されても、その破片から分裂して増えていくが\nサイズ自体は小さくなってしまう。小さくても強さ自体は\n大きい時と同じとなっている。"
+            },
+            {
+                "move_name": "大地砂散弾(ロックサンド)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun137",
+                "user": "忌多野國伽羅",
+                "description": "第113話初登場。紋章悪祓術。\n砂を弾丸のように飛ばして攻撃をしている。"
+            },
+            {
+                "move_name": "大地頌 大地暴槍(アンダーグラウンド ロングスピア)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun136",
+                "user": "忌多野國伽羅",
+                "description": "第113話初登場。紋章悪祓術。\n地面を巨大な槍のように隆起させて攻撃をしている。"
+            },
+            {
+                "move_name": "大地餐頌 死地尖撃(アンダーグラウンド デッドドリル)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun135",
+                "user": "忌多野國伽羅",
+                "description": "第114話初登場。亜門術。\nダイヤモンドの333倍の鋭い岩石をドリルの回転\nさせながら飛ばして攻撃をする。(オーパーツさんより)"
+            },
+            {
                 "move_name": "大宇宙流兔美味屍彼山剣(コズミック・ふるさとかざんけん)",
                 "url": "https://hissatuwaza.kill.jp/setume/erementara-.htm#erementara-10",
                 "user": "希柳",
@@ -48698,6 +48782,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/areiya-.htm#areiya-2",
                 "user": "ランガ",
                 "description": "人気アイドル瀬戸りんごの使用する天使ランガの遠距離攻撃技。ものすごいスイングスピードの蹴りを繰り出すことで強い風を起こして相手にぶち当てることで攻撃できる。離れた状態で戦うことができるのだが、直線上に敵がいないと当たらないという弱点を持つ。(ブラストさんより)"
+            },
+            {
+                "move_name": "死地武鎧(デッドアーマー)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun145",
+                "user": "忌多野國伽羅",
+                "description": "第116話初登場。\n全身を真っ黒の甲冑を展開させている。"
+            },
+            {
+                "move_name": "死地逆五芒星(デッドデビルスター)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun139",
+                "user": "忌多野國伽羅",
+                "description": "第115話初登場。\n無数の円錐を展開させて、それによって攻撃をしている。"
             },
             {
                 "move_name": "死神のカマ",
@@ -55198,10 +55294,22 @@
                 "description": "黒き闘気をまとって槍を旋回させることによって、\n竜巻を発生させ周囲の相手を引き寄せて、槍で薙ぎ払って吹き飛ばす。"
             },
             {
+                "move_name": "黒ノ太陽盾(ブラックアテナ)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun141",
+                "user": "祓清",
+                "description": "第116話初登場。\n黒い戒力を込めた「太陽盾(アテナ)」。\n悪魔からの攻撃に対して特に効果が出る。"
+            },
+            {
                 "move_name": "黒ノ巨月拳(ブラックヘカトンケイル)",
                 "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun121",
                 "user": "祓清",
                 "description": "第93話初登場. 月の破壊神(ムーンライズ・キングダム)。魔力と戒力を混ぜた拳による一撃を繰り出している。"
+            },
+            {
+                "move_name": "黒ノ月槍(ブラックポセイドン)",
+                "url": "https://hissatuwaza.kill.jp/setume/kiyosikun.htm#kiyosikun144",
+                "user": "祓清",
+                "description": "第116話初登場。\n黒い戒力を込めた「月槍(ポセイドン)」。"
             },
             {
                 "move_name": "黒ノ月銃(ブラックアルテミス)",

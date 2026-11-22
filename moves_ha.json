@@ -11992,6 +11992,12 @@
                 "description": "第11話初登場。手を指鉄砲にして一直線に電気を放つ。(オーパーツさんより)"
             },
             {
+                "move_name": "武装戦陣(シルバーワールド)",
+                "url": "https://hissatuwaza.kill.jp/setume/hazurewaku.htm#hazurewaku18",
+                "user": "十河綾香",
+                "description": "コミカライズ版第52話初登場。銀色の巨大な球体を出現させ変幻自在に剣や槍などを創造し戦うことができる。(オーパーツさんより)"
+            },
+            {
                 "move_name": "群体強化(クイーンビー)",
                 "url": "https://hissatuwaza.kill.jp/setume/hazurewaku.htm#hazurewaku15",
                 "user": "戦場浅葱",
@@ -12014,6 +12020,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/hazurewaku.htm#hazurewaku14",
                 "user": "高雄樹",
                 "description": "第11話初登場。電気を出すスキル。(オーパーツさんより)"
+            },
+            {
+                "move_name": "鬼槍流－崩落十字",
+                "url": "https://hissatuwaza.kill.jp/setume/hazurewaku.htm#hazurewaku17",
+                "user": "十河綾香",
+                "description": "コミカライズ版第51話初登場。十河綾香自身の突進スピードを利用した大技。槍を薙ぎ払った末にひと突きで心臓を抉り着く。(オーパーツさんより)"
+            },
+            {
+                "move_name": "鬼槍流－転槍・崩落十字",
+                "url": "https://hissatuwaza.kill.jp/setume/hazurewaku.htm#hazurewaku16",
+                "user": "十河綾香",
+                "description": "コミカライズ版第12話初登場。十河綾香の槍を駆使した大技。相手の勢いを利用して自身の槍を基軸に、相手の体を絡めとり、十字を描くように相手を地面へ打ちつける。(オーパーツさんより)"
             }
         ]
     },
@@ -24484,16 +24502,70 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm",
         "moves": [
             {
+                "move_name": "キャリブレーションフィールド",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce6",
+                "user": "ララ・ズーデンシュタイン",
+                "description": "第5話初登場。\nバリアー的なものを展開させることが出来る。\nバリアの一部を飛ばして攻撃も可能としている。"
+            },
+            {
+                "move_name": "グラビティコントロール",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce11",
+                "user": "東道晴香",
+                "description": "第4話初登場。\nエンジンによって重力をコントロールすることによって、対象を\n浮かしている。"
+            },
+            {
+                "move_name": "グラビティサイクロン",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce12",
+                "user": "東道晴香",
+                "description": "第4話初登場。\nエンジンによって「グラビトンハンマー」を展開させた状態で振るうことによって、\n重力場を展開させ相手の動きを封じている。"
+            },
+            {
                 "move_name": "グラビトンウェーブ",
                 "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce3",
                 "user": "東道晴香",
                 "description": "第1話初登場。エンジンを発動させた状態で使用。\n重力波のようなものを発することが出来る。"
             },
             {
+                "move_name": "グラビトンプレス",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce13",
+                "user": "東道晴香",
+                "description": "第4話初登場。\nエンジンによって「グラビトンハンマー」を展開させた状態で\n上から叩きつけて攻撃をおこなう。"
+            },
+            {
                 "move_name": "グラビトンプレッシャー",
                 "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce4",
                 "user": "東道晴香",
                 "description": "第1話初登場。エンジンを発動させた状態で使用。\n相手の頭上から重力場のようなものを発生させて押しつぶす。"
+            },
+            {
+                "move_name": "サンダーフィニッシング",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce10",
+                "user": "エレノア・ノースブルック",
+                "description": "第4話初登場。\nエンジンから電撃を放出することによって、水場の\n魚を大量に気絶させて獲得している。"
+            },
+            {
+                "move_name": "フレアヒート",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce8",
+                "user": "仁科陽子",
+                "description": "第３話初登場。\nエンジンの手のひらの部分から熱線を放出して\n攻撃をしている。"
+            },
+            {
+                "move_name": "ブライトサンバーンシュート",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce9",
+                "user": "仁科陽子",
+                "description": "第３話初登場。\nエンジンの両手をかかげ巨大な熱球を展開させ、\nそれを飛ばして攻撃をする。"
+            },
+            {
+                "move_name": "ブレイカーキャノン",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce5",
+                "user": "東道明",
+                "description": "第6話初登場。エニアを装着した状態で使用する攻撃。\n両肩口の部分から光線を発射する。"
+            },
+            {
+                "move_name": "プラズマブラスター",
+                "url": "https://hissatuwaza.kill.jp/setume/vertexforce.htm#vertexforce7",
+                "user": "エレノア・ノースブルック",
+                "description": "第３話初登場。\nエンジンの手のひらの部分から電撃のようなものを\n放出して攻撃をしている。"
             }
         ]
     },
@@ -26024,6 +26096,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/paras.htm#paras20",
                 "user": "多肉拓矢",
                 "description": "第52話初登場。\n周囲がすべてトランポリンの環境を活かして、\n飛び回ってからタックルを繰り出す。"
+            },
+            {
+                "move_name": "パオダンク",
+                "url": "https://hissatuwaza.kill.jp/setume/paras.htm#paras27",
+                "user": "碧山羽鳳",
+                "description": "第83話初登場。バスケの試合にて使用。\n如意タオルの能力によって、ゴールまでに伸ばしたタオルを解除\nすることによって、縮んだタオルに引っ張られる力で飛んでいき\nダンクを繰り出すというもの。(オーパーツさんより)"
             },
             {
                 "move_name": "パラワープ",

@@ -37390,6 +37390,18 @@
                 "description": "★5キオク「バルダメンテ・フォルティッシモ」の戦闘スキル。敵単体をメッタ斬りにし、自身の防御力に依存した水属性ダメージを与え、味方全体に発動者の防御力の数割+一定数値のバリアを付与する(2ターン)。"
             },
             {
+                "move_name": "イオンビーム",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra29",
+                "user": "リリー・キャンディー",
+                "description": "魔法少女そらな☆マギカの第２章で使用。そらなとシアルの協力で十分に充電した状態で周囲に漂うレゴリスの電子をイオン化し、ビームとして発射する。"
+            },
+            {
+                "move_name": "エレクトロン・ビーム",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra28",
+                "user": "リリー・キャンディー",
+                "description": "魔法少女そらな☆マギカの第２章で使用。電磁場で電子を加速させ、ビームとして放つ。"
+            },
+            {
                 "move_name": "シャボン魔法弾",
                 "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra20",
                 "user": "百江なぎさ",
@@ -37456,6 +37468,12 @@
                 "description": "★5キオク「アブソリュート・レイン」の戦闘スキル。槍を構えて一直線上に突撃して敵単体に水属性ダメージを与え、自身の与えるダメージとクリティカル率アップ(1ターン)。"
             },
             {
+                "move_name": "ブラッド・マシンガン",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra27",
+                "user": "凪星そらな",
+                "description": "魔法少女そらな☆マギカの第２章で使用。名前からして固有魔法で血液の銃弾を乱射するものだろうが、魔女には効かなかった。"
+            },
+            {
                 "move_name": "ペネトランスサジッタ",
                 "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra9",
                 "user": "鹿目まどか",
@@ -37486,6 +37504,18 @@
                 "description": "同名の★5キオクの必殺技。魔法陣に弓を撃つことで魔法陣から極太のレーザーが発射され、敵全体に光属性ダメージを与える。"
             },
             {
+                "move_name": "地上界の木霊(エコー・オブ・ネイチャー)",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra31",
+                "user": "御影シアル",
+                "description": "魔法少女そらな☆マギカの第２章で使用。カーボンナノチューブを武器にして魔女を攻撃するも通用しなかった。"
+            },
+            {
+                "move_name": "天界の夕刻(アフターグロー・オブ・ヘイブン)",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra30",
+                "user": "御影シアル",
+                "description": "魔法少女そらな☆マギカの第１章で初使用。自身の剣をライフルに変形させる。"
+            },
+            {
                 "move_name": "手榴弾投擲",
                 "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra17",
                 "user": "暁美ほむら",
@@ -37502,6 +37532,18 @@
                 "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra19",
                 "user": "暁美ほむら",
                 "description": "同名の★5キオクの必殺技。時間を止め、ゴルフクラブで何度も殴ったあと、時間を動かすことであらかじめ設置した爆弾を爆発させ、敵単体に無属性ダメージを与え、味方全体の必殺技で与えるダメージアップ(2ターン)。"
+            },
+            {
+                "move_name": "水ビーム",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra26",
+                "user": "凪星そらな",
+                "description": "魔法少女そらな☆マギカの第２章で使用。名前からして固有魔法で水のビームを撃つものだろうが、魔女には効かなかった。"
+            },
+            {
+                "move_name": "神理の天閃(スパルク・ディヴィナ・ヴェリタス)",
+                "url": "https://hissatuwaza.kill.jp/setume/magiaexedra.htm#magiaexedra32",
+                "user": "御影シアル",
+                "description": "魔法少女そらな☆マギカの第２章で使用。掘削機の魔女に止めを刺した。\n「神聖なる真理の叡智よ！天界の光輪を放て…！」"
             },
             {
                 "move_name": "紅蓮の槍",
@@ -49916,6 +49958,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko29",
                 "user": "デスカラス",
                 "description": "第30話初登場。\n対象を沈静化させて気を失わせる効果がある魔法。"
+            },
+            {
+                "move_name": "煌蛇(カグラオロチ)",
+                "url": "https://hissatuwaza.kill.jp/setume/madannoko.htm#madannoko57",
+                "user": "デスカラス",
+                "description": "第104話初登場。\n反人類魔法。\n炎をまとわせた巨大な蛇のような魔法。"
             },
             {
                 "move_name": "熟睡(タフタフ)",

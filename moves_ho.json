@@ -21064,6 +21064,12 @@
                 "description": "第266話初登場。\n同じ箇所に連続でパンチを繰り出すというもの。\nトリコの「釘パンチ」のパロディとなっている。"
             },
             {
+                "move_name": "インビジブラインド",
+                "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko340",
+                "user": "ロボコ",
+                "description": "第305話初登場。本来は目をつぶっている間に透明になる魔法。\nロボコの場合は相手をふっとばして消し飛ばしているだけである。"
+            },
+            {
                 "move_name": "カメカメファー",
                 "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko6",
                 "user": "ソンゴ君",
@@ -21076,10 +21082,34 @@
                 "description": "頭のカチューシャの部分を連続で飛ばして\n攻撃をする必殺技。"
             },
             {
+                "move_name": "スモルルルーン",
+                "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko36",
+                "user": "ロボコ",
+                "description": "第305話初登場。\n本来は小さくする魔法。\nロボコの場合は相手を上から殴って埋めて小さくしてるように見せてるだけ。"
+            },
+            {
+                "move_name": "ダブリード",
+                "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko39",
+                "user": "ロボコ",
+                "description": "第305話初登場。\n本来は分身させる魔法。\nロボコの場合は手刀で相手を真っ二つにしているだけである。"
+            },
+            {
                 "move_name": "ツイン・テリーヌ灼熱を添えて",
                 "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko15",
                 "user": "ロボコ",
                 "description": "名称は第136話初登場。\n髪の毛のツインテールの部分から\nエネルギー波を発射している。\n技名の「灼熱を添えて」の部分は「キャビアを添えて」と\n迷ったらしい。\n劇場版では「灼熱とコパトーンを添えて」になっている。"
+            },
+            {
+                "move_name": "ビッグーン",
+                "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko38",
+                "user": "ロボコ",
+                "description": "第305話初登場。\n本来は巨大化させる魔法。\nロボコの場合は殴って腫れ上がらせているだけである。"
+            },
+            {
+                "move_name": "ペラペランコ",
+                "url": "https://hissatuwaza.kill.jp/setume/roboko.htm#roboko37",
+                "user": "ロボコ",
+                "description": "第305話初登場。本来はペラペラにする魔法。\nロボコの場合は相手をビンタして壁に潰しただけである。"
             },
             {
                 "move_name": "メイク・ザ・ジャンプ",

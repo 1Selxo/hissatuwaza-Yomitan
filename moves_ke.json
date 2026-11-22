@@ -21178,6 +21178,12 @@
                 "description": "第8話初登場。コミカライズ版での登場。地面から鋭利な棘状の氷を出し、敵を突き刺す。(オーパーツさんより)"
             },
             {
+                "move_name": "アイスバードストライク",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku33",
+                "user": "カエデ・タマモ",
+                "description": "コミカライズ版第34話初登場。読んで字のごとく鳥型の氷を作り出し、標的に突撃させる。(オーパーツさんより)"
+            },
+            {
                 "move_name": "アイスレイン",
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku4",
                 "user": "カエデ・タマモ",
@@ -21292,6 +21298,18 @@
                 "description": "コミカライズ版第27話初登場。炎属性の攻撃魔法で巨大で高威力な火球を飛ばす魔法だが、魔力消費が大きく連発できない。\n(オーパーツさんより)"
             },
             {
+                "move_name": "パーフェクトショット",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku34",
+                "user": "ポロア",
+                "description": "コミカライズ版第34話初登場。標的に照準を合わせ、矢を放ち分裂させて命中させる。(オーパーツさんより)"
+            },
+            {
+                "move_name": "パーフェクトブレイクショット",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku35",
+                "user": "ポロア",
+                "description": "コミカライズ版第34話初登場。パーフェクトショットの強化版と思われる。劇中では硬い甲殻を持つアルマジロスの胴体を貫通した。(オーパーツさんより)"
+            },
+            {
                 "move_name": "フラワーブリザード",
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku11",
                 "user": "カエデ・タマモ",
@@ -21344,6 +21362,12 @@
                 "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku31",
                 "user": "ホワイトゲーター",
                 "description": "コミカライズ版第29話初登場。口から強い冷気を光線のように吐く。これはトールが考えた技。(オーパーツさんより)"
+            },
+            {
+                "move_name": "猫じゃらキック",
+                "url": "https://hissatuwaza.kill.jp/setume/keikenchichochiku.htm#keikenchichochiku3",
+                "user": "リン",
+                "description": "コミカライズ版第34話初登場。ビースト猫部族の俊敏性を活かしたキック技。(オーパーツさんより)"
             },
             {
                 "move_name": "誘惑の魔眼",

@@ -1660,6 +1660,12 @@
         "series_url": "https://hissatuwaza.kill.jp/setume/yanineko.htm",
         "moves": [
             {
+                "move_name": "ゾクラッシュ",
+                "url": "https://hissatuwaza.kill.jp/setume/yanineko.htm#yanineko3",
+                "user": "ゾクねこ",
+                "description": "両手から繰り出されるパンチのラッシュ。"
+            },
+            {
                 "move_name": "忍法 雲隠れ",
                 "url": "https://hissatuwaza.kill.jp/setume/yanineko.htm#yanineko1",
                 "user": "ヤニねこ",
